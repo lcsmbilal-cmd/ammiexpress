@@ -1,0 +1,1536 @@
+{
+  "adminUsers": [
+    {
+      "role": "super_admin",
+      "id": "admin-01",
+      "username": "admin Bilal",
+      "email": "ammiexpresssupport@gmail.com",
+      "salt": "ammiexpress_salt_2025",
+      "updatedAt": "2026-09-28T14:47:20.419Z",
+      "passwordHash": "d484b1722efc81dc89678016c5f66eb97bdc8c30fe281bc9236d73c7aac546d2e4edca9712280874b0b514c4e6566dea63a0b0169f377c7d32211f096719d846",
+      "lastLoginAt": "2026-09-30T13:17:14.918Z"
+    }
+  ],
+  "products": [
+    {
+      "detailedDescription": {
+        "bulletPoints": [
+          "High durability",
+          "Easy to clean",
+          "Premium Pakistani household essential"
+        ],
+        "highlightBox": "⭐ 100% Genuine Quality Guarantee by Ammi Express",
+        "intro": "",
+        "sections": []
+      },
+      "benefits": [
+        {
+          "id": "ben-1790843498957-275",
+          "productId": "prod-ammi-1790844044142",
+          "text": "Complete Travel Organization",
+          "title": "Complete Travel Organization",
+          "description": "Keep your passport, cards, cash, SIM cards, and travel documents neatly organized in one place.",
+          "icon": "Zap",
+          "enabled": true,
+          "displayOrder": 1,
+          "createdAt": "2026-10-01T08:51:37.378Z",
+          "updatedAt": "2026-10-01T08:51:37.378Z"
+        },
+        {
+          "id": "ben-1790843525349-342",
+          "productId": "prod-ammi-1790844044142",
+          "text": "Multiple Compartments",
+          "title": "Multiple Compartments",
+          "description": "Separate compartments make it easy to store and quickly access your essential travel items.",
+          "icon": "Star",
+          "enabled": true,
+          "displayOrder": 2,
+          "createdAt": "2026-10-01T08:51:37.378Z",
+          "updatedAt": "2026-10-01T08:51:37.378Z"
+        },
+        {
+          "id": "ben-1790843566141-770",
+          "productId": "prod-ammi-1790844044142",
+          "text": "Durable & Stylish Design",
+          "title": "Durable & Stylish Design",
+          "description": "Made for regular travel with a practical, sleek design that's convenient to carry.",
+          "icon": "CheckCircle2",
+          "enabled": true,
+          "displayOrder": 3,
+          "createdAt": "2026-10-01T08:51:37.378Z",
+          "updatedAt": "2026-10-01T08:51:37.378Z"
+        },
+        {
+          "id": "ben-1790843601380-887",
+          "productId": "prod-ammi-1790844044142",
+          "text": "Compact & Travel-Friendly",
+          "title": "Compact & Travel-Friendly",
+          "description": "Lightweight and easy to carry in your backpack, handbag, or luggage—perfect for vacations and business trips.",
+          "icon": "Flame",
+          "enabled": true,
+          "displayOrder": 4,
+          "createdAt": "2026-10-01T08:51:37.378Z",
+          "updatedAt": "2026-10-01T08:51:37.378Z"
+        }
+      ],
+      "lowStockThreshold": 10,
+      "stockCount": 100,
+      "reviewCount": 0,
+      "id": "prod-ammi-1790844044142",
+      "slug": "premium-passport-holder-travel-wallet-durable-multi-compartment-organizer-for-passport-cards-cash-travel-essentials-random-colour",
+      "salePrice": 1099,
+      "howItWorks": [],
+      "updatedAt": "2026-10-01T08:51:37.379Z",
+      "benefitsSection": {
+        "heading": "✈️ Everything You Need for Organized & Stress-Free Travel",
+        "description": "Keep your passport, cards, cash, SIM cards, and travel documents neatly organized in one compact and durable wallet—perfect for vacations, business trips, and everyday travel.",
+        "eyebrow": "✨ Premium Travel Organizer"
+      },
+      "badge": "🔥 Travel Essential",
+      "specifications": [
+        {
+          "label": "Product Type",
+          "value": "Passport Holder & Travel Wallet"
+        },
+        {
+          "label": "Material",
+          "value": "Durable Synthetic Leather"
+        },
+        {
+          "label": "Design",
+          "value": "Sleek Multi-Compartment Design"
+        },
+        {
+          "label": "Passport Slot",
+          "value": "1 Dedicated Slot"
+        },
+        {
+          "value": "4 Card Slots",
+          "label": "Card Slots"
+        },
+        {
+          "value": "2 SIM Card Slots",
+          "label": "SIM Card Slots"
+        },
+        {
+          "label": "Cash / Note Slots",
+          "value": "Multiple Note Compartments"
+        },
+        {
+          "value": "1 Dedicated Slot",
+          "label": "Boarding Pass Slot"
+        },
+        {
+          "value": "Elastic Strap Closure",
+          "label": "Closure"
+        },
+        {
+          "value": "Random Colour",
+          "label": "Color"
+        },
+        {
+          "label": "Suitable For",
+          "value": "Men & Women"
+        },
+        {
+          "value": "Travel, Vacations & Business Trips",
+          "label": "Ideal For"
+        },
+        {
+          "label": "Portability",
+          "value": "Compact & Lightweight"
+        },
+        {
+          "value": "PTW-001",
+          "label": "SKU"
+        }
+      ],
+      "sku": "SKU: PTW-001",
+      "costPrice": 600,
+      "regularPrice": 1500,
+      "title": "Premium Passport Holder & Travel Wallet – Durable Multi-Compartment Organizer for Passport, Cards, Cash & Travel Essentials | Random Colour",
+      "currency": "Rs.",
+      "headline": "✈️ Travel Smart, Stay Organized – Keep Your Essentials Secure Wherever You Go!",
+      "variants": [
+        {
+          "inStock": true,
+          "name": "Grey",
+          "colorCode": "#707070",
+          "id": "v-1790843964403"
+        }
+      ],
+      "createdAt": "2026-10-01T08:40:44.142Z",
+      "publishedAt": "2026-10-01T08:41:02.972Z",
+      "images": [
+        "/uploads/products-1790843166241-a7cq3yy-2026-09-25-4b2cf11b580c07.jpg",
+        "/uploads/products-1790843167205-xn73gx4-2026-09-25-fe239213f7e3fa.jpg",
+        "/uploads/products-1790843412811-7ux3d75-premium-gray-passport-org.jpg"
+      ],
+      "features": [
+        {
+          "icon": "Cpu",
+          "description": "Pure copper winding for prolonged heavy-duty longevity.",
+          "highlight": true,
+          "title": "High-Power Motor",
+          "id": "f1"
+        }
+      ],
+      "status": "published",
+      "shortDescription": "✈️ Keep your passport, cards, cash, and travel essentials organized in one sleek, durable and convenient travel wallet.",
+      "isFeatured": true,
+      "rating": 5
+    }
+  ],
+  "settings": {
+    "brandName": "Ammi Express",
+    "businessName": "Ammi Express Pakistan",
+    "slogan": "Smart Products. Better Everyday Living.",
+    "supportPhone": "0308-2494870",
+    "supportEmail": "support@ammiexpress.pk",
+    "logoUrl": "/uploads/logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+    "logoWidth": 150,
+    "logoHeight": 46,
+    "logoAlignment": "right",
+    "showLogo": true,
+    "logoBg": "transparent",
+    "faviconUrl": "",
+    "announcementBar": {
+      "enabled": true,
+      "text": "🚚 Fast Delivery All Over Pakistan | 💵 Cash on Delivery & JazzCash Available | ⚡ Limited Stock Sale",
+      "linkText": "Order Now"
+    },
+    "whatsappNumber": "0308-2494870",
+    "whatsappPrefilledMessage": "Assalam-o-Alaikum Ammi Express, I need information about {product}.",
+    "deliveryCharge": 250,
+    "freeDeliveryAbove": 3500,
+    "deliveryInfo": {
+      "timeEstimate": "2 to 4 Business Days",
+      "citiesCovered": "Delivering to over 250+ cities, towns, and villages across Pakistan",
+      "courierPartners": "TCS, Leopards, Call Courier & Trax Express",
+      "packagingNotice": "Bubble-wrapped double reinforced box to ensure zero transit damage."
+    },
+    "jazzCashPayment": {
+      "enabled": true,
+      "accountTitle": "Ammi Express",
+      "tillId": "984210573",
+      "accountNumber": "0308-2494870",
+      "qrCodeImage": "/assets/ammi-express-real-jazzcash-qr.png",
+      "qrTitle": "Ammi Express Official JazzCash / Raast Merchant Stand",
+      "qrDescription": "Till ID: 984210573 | Dial *786*10# or Scan with JazzCash / Raast / Any Bank App",
+      "showQrCode": true,
+      "instructions": "Open your JazzCash App > Tap \"Scan QR\" > Scan our verified merchant QR code or enter Till ID 984210573 > Take a screenshot and enter the Transaction ID below.",
+      "verificationNotice": "Your payment will be manually verified by Ammi Express billing team within 30 minutes of order placement.",
+      "qrImageUrl": "/assets/ammi-express-real-jazzcash-qr.png"
+    },
+    "codPayment": {
+      "enabled": true,
+      "instructions": "Pay with physical cash to the courier rider upon package inspection and delivery."
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com/ammiexpress.pk",
+      "instagram": "https://instagram.com/ammiexpress.pk",
+      "tiktok": "https://tiktok.com/@ammiexpress.pk",
+      "email": "ammiexpresssupport@gmail.com",
+      "whatsapp": "https://wa.me/923082494870",
+      "youtube": "https://youtube.com/@ammiexpresspk",
+      "pinterest": "https://pinterest.com/ammiexpresspk",
+      "twitter": "https://twitter.com/ammiexpresspk"
+    },
+    "heroSettings": {
+      "badge": "🔥 Limited Time Offer",
+      "heading": "✈️ Travel Organized, Wherever You Go",
+      "headingHighlight": "Heading Highlight (Accent Color):",
+      "subheading": "Keep your passport, cards, cash, and travel essentials organized in one stylish, durable, and compact wallet. Travel smarter and enjoy easy access to your important documents wherever you go. ✈️",
+      "description": "Keep your passport, cards, cash, and travel essentials organized in one stylish, durable, and compact wallet. Travel smarter and enjoy easy access to your important documents wherever you go. ✈️",
+      "buttonText": "Order Cash On Delivery Now",
+      "buttonLink": "#order-form",
+      "saleNotice": "Flash Sale: 🔥 27%% OFF + 7-Day Replacement Guarantee",
+      "bannerImage": ""
+    },
+    "footerSettings": {
+      "aboutText": "Pakistan's trusted store for innovative, high-quality household and kitchen lifestyle gadgets. We bring smart products to improve your everyday living.",
+      "showLogo": true,
+      "copyrightText": "© 2026 Ammi Express Pakistan. All Rights Reserved.",
+      "helplineNumber": "0308-2494870",
+      "operatingHours": "9:00 AM – 11:00 PM (Mon-Sun)",
+      "supportEmail": "support@ammiexpress.pk",
+      "address": "Ammi Express Logistics Center, Main Commercial Boulevard, Gulberg, Lahore, Pakistan",
+      "showSocialLinks": true,
+      "showNewsletter": true,
+      "newsletterTitle": "Subscribe for Exclusive Deals & New Arrivals",
+      "newsletterDescription": "Get WhatsApp and email alerts on upcoming seasonal discounts and kitchen essentials."
+    },
+    "colors": {
+      "primary": "#F5B800",
+      "dark": "#171717",
+      "accent": "#16803D"
+    },
+    "visibility": {
+      "showAnnouncement": true,
+      "showHero": true,
+      "showCategories": true,
+      "showFeaturedProduct": true,
+      "showTrendingGrid": true,
+      "showBenefits": true,
+      "showDescription": true,
+      "showFeatures": true,
+      "showHowItWorks": true,
+      "showSpecs": true,
+      "showReviews": true,
+      "showTrust": true,
+      "showDelivery": true,
+      "showOrderForm": true,
+      "showFaqs": true,
+      "showFooterSocials": true,
+      "showHeaderSocials": true
+    },
+    "trustPoints": [
+      {
+        "title": "7-Day Return & Replacement",
+        "icon": "ShieldCheck",
+        "description": "If you receive any damaged or defective item, we replace it instantly with zero hassle.",
+        "id": "t1"
+      },
+      {
+        "icon": "Truck",
+        "title": "Fast Nationwide Delivery",
+        "description": "Orders dispatched within 24 hours via premium tracked courier services across Pakistan.",
+        "id": "t2"
+      },
+      {
+        "description": "Pay safely with cash at your doorstep when you physically receive your package.",
+        "icon": "Banknote",
+        "title": "Cash On Delivery Available",
+        "id": "t3"
+      },
+      {
+        "icon": "Headphones",
+        "description": "Real customer support on 0308-2494870 available 9:00 AM - 11:00 PM every day.",
+        "id": "t4",
+        "title": "Direct WhatsApp Support"
+      }
+    ],
+    "trustSectionTexts": {
+      "badge": "Our Guarantee",
+      "heading": "Why Shop With Ammi Express?",
+      "description": "Built with trust, reliability, and honest customer service for every Pakistani household."
+    },
+    "deliverySectionTexts": {
+      "description": "We partner with Pakistan's leading courier networks to ensure your parcel reaches safely.",
+      "heading": "Fast, Reliable Delivery Across Pakistan",
+      "badge": "Nationwide Logistics"
+    },
+    "reviewsSectionTexts": {
+      "badge": "Real Pakistani Feedback",
+      "heading": "Trusted by Thousands Across Pakistan",
+      "description": "Real experiences from verified buyers in Lahore, Karachi, Islamabad, and across the country."
+    },
+    "faqSectionTexts": {
+      "heading": "Frequently Asked Questions",
+      "description": "Everything you need to know about placing your order, delivery, and payment.",
+      "badge": "Got Questions?"
+    },
+    "policies": {
+      "privacyPolicy": "At Ammi Express, your privacy is strictly protected. We collect your delivery name, contact number, and address strictly for shipping and courier confirmation purposes. We never sell, share, or disclose your personal contact information to third parties.",
+      "termsConditions": "All orders placed on Ammi Express are subject to telephone or WhatsApp confirmation before dispatch. Delivery timelines are typically 2 to 4 business days depending on city location. Customers must provide valid contact details to avoid delivery cancellation.",
+      "shippingPolicy": "We ship nationwide using courier partners (TCS, Leopards, Trax). A flat delivery fee of Rs. 250 is applied at checkout. Once dispatched, a live tracking code is provided via SMS / WhatsApp.",
+      "returnRefundPolicy": "We provide a 7-day hassle-free replacement warranty for manufacturing defects or shipping damages. Simply contact our official WhatsApp at 0308-2494870 with an unboxing video or photos, and our team will arrange a replacement parcel immediately."
+    },
+    "seo": {
+      "metaTitle": "Ammi Express - Smart Products. Better Everyday Living",
+      "metaDescription": "Shop premium home and kitchen products on Ammi Express Pakistan. Fast Cash on Delivery and JazzCash QR payment."
+    },
+    "sectionHeadings": {
+      "featuresHeading": "Built for Power, Safety & Durability",
+      "productGridTitle": "Trending & New Arrivals",
+      "trendingProducts": "Trending Products",
+      "orderFormSubtitle": "Fill in your delivery details below. Pay Cash on Delivery when rider arrives, or pay via JazzCash QR.",
+      "newArrivals": "New Arrivals",
+      "featuredProducts": "Featured Products",
+      "categoriesSubtitle": "Discover our curated range of quality home and kitchen essentials",
+      "categoriesTitle": "Premium Kitchen Collection",
+      "specificationsHeading": "Features & Technical Specifications",
+      "orderFormTitle": "Complete Your Order",
+      "kitchenGadgets": "Premium Kitchen Collection",
+      "productGridSubtitle": "Customer Favorites Hand-picked for Quality",
+      "bestSelling": "Best Selling"
+    }
+  },
+  "categories": [],
+  "homepageSections": [
+    {
+      "subtitle": "Designed for Everyday Speed & Convenience",
+      "enabled": true,
+      "order": 4,
+      "title": "Why Pakistani Homes Love It",
+      "description": "Key benefits and highlights for daily cooking prep",
+      "type": "benefits",
+      "id": "sec-benefits",
+      "visible": true
+    },
+    {
+      "order": 1,
+      "enabled": true,
+      "title": "Explore Categories",
+      "type": "categories",
+      "description": "Browse top trending product categories",
+      "buttonLink": "",
+      "image": "",
+      "buttonText": "",
+      "id": "sec-categories",
+      "backgroundColor": "",
+      "badge": "",
+      "productIds": [],
+      "categoryId": "",
+      "visible": true,
+      "subtitle": "Curated Kitchen & Home Collections",
+      "textColor": ""
+    },
+    {
+      "id": "sec-delivery",
+      "enabled": true,
+      "type": "delivery",
+      "description": "Orders dispatched within 24 hours",
+      "order": 8,
+      "subtitle": "Doorstep Courier Tracking via TCS, Leopards & Trax",
+      "title": "Fast Nationwide Delivery",
+      "visible": true
+    },
+    {
+      "enabled": true,
+      "description": "Answers about delivery times, checks, replacements, and JazzCash payment.",
+      "id": "sec-faqs",
+      "subtitle": "Everything You Need to Know Before Ordering",
+      "type": "faqs",
+      "order": 10,
+      "visible": true,
+      "title": "Frequently Asked Questions"
+    },
+    {
+      "visible": true,
+      "subtitle": "2025 Bestseller - 40% Limited Time Offer",
+      "enabled": true,
+      "id": "sec-featured-product",
+      "description": "Ammi Express Smart Multi-Function Wireless Food Processor & Chopper",
+      "type": "featured_product",
+      "title": "Kitchen Gadgets Spotlight",
+      "order": 3,
+      "categoryId": "cat-kitchen"
+    },
+    {
+      "badge": "",
+      "description": "Main visual highlight with instant buy-now CTA",
+      "visible": true,
+      "buttonLink": "",
+      "image": "",
+      "buttonText": "",
+      "textColor": "",
+      "enabled": true,
+      "type": "hero",
+      "subtitle": "Flash Sale & Quick Order",
+      "id": "sec-hero",
+      "order": 1,
+      "categoryId": "",
+      "title": "Hero Showcase",
+      "backgroundColor": "",
+      "productIds": []
+    },
+    {
+      "subtitle": "Fill your address details to confirm your order",
+      "title": "Instant Cash on Delivery & JazzCash Checkout",
+      "enabled": true,
+      "id": "sec-order-form",
+      "order": 9,
+      "description": "No credit card required. Pay cash to the courier or scan JazzCash QR.",
+      "visible": true,
+      "type": "order_form"
+    },
+    {
+      "subtitle": "Customer Favorites Hand-picked for Quality",
+      "enabled": true,
+      "order": 5,
+      "title": "Trending & New Arrivals",
+      "description": "Top requested appliances and rechargeable kitchen gear",
+      "type": "product_grid",
+      "id": "sec-product-grid",
+      "visible": true
+    },
+    {
+      "order": 6,
+      "title": "Customer Experiences & Feedback",
+      "type": "reviews",
+      "description": "Read what real homemakers in Karachi, Lahore, and Islamabad have to say",
+      "subtitle": "Over 380+ 5-Star Reviews from Verified Buyers Across Pakistan",
+      "visible": true,
+      "id": "sec-reviews",
+      "enabled": true
+    },
+    {
+      "subtitle": "Safe Delivery, 7-Day Guarantee & Direct WhatsApp Support",
+      "enabled": true,
+      "visible": true,
+      "description": "Complete peace of mind with every order",
+      "title": "Our Nationwide Promise",
+      "id": "sec-trust",
+      "type": "trust",
+      "order": 7
+    }
+  ],
+  "banners": [
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+      "badge": "Special Promo",
+      "discountText": "FLAT 40% OFF",
+      "id": "ban-1",
+      "buttonLink": "#order-form",
+      "subtitle": "Save up to 40% on wireless choppers & blenders with free warranty",
+      "enabled": true,
+      "buttonText": "Shop Sale Deals",
+      "order": 1,
+      "title": "Ramadan & Eid Kitchen Mega Sale"
+    },
+    {
+      "buttonText": "Pay With JazzCash",
+      "badge": "Express Dispatch",
+      "id": "ban-2",
+      "subtitle": "Pay via JazzCash Till ID 984210573 for express priority packaging",
+      "discountText": "FREE VIP PACKING",
+      "enabled": true,
+      "title": "Instant JazzCash & Raast Payment Bonus",
+      "buttonLink": "#order-form",
+      "order": 2
+    }
+  ],
+  "socialMediaLinks": [
+    {
+      "platform": "email",
+      "showInHeader": true,
+      "name": "Email",
+      "id": "soc-email",
+      "enabled": true,
+      "order": 8,
+      "showInFooter": true,
+      "url": "ammiexpresssupport@gmail.com"
+    },
+    {
+      "enabled": true,
+      "showInHeader": true,
+      "platform": "facebook",
+      "id": "soc-fb",
+      "showInFooter": true,
+      "name": "Facebook",
+      "order": 1,
+      "url": "https://facebook.com/ammiexpress.pk"
+    },
+    {
+      "showInHeader": true,
+      "platform": "instagram",
+      "name": "Instagram",
+      "url": "https://instagram.com/ammiexpress.pk",
+      "order": 2,
+      "showInFooter": true,
+      "enabled": true,
+      "id": "soc-ig"
+    },
+    {
+      "order": 6,
+      "enabled": false,
+      "showInHeader": false,
+      "name": "Pinterest",
+      "platform": "pinterest",
+      "id": "soc-pin",
+      "url": "https://pinterest.com/ammiexpresspk",
+      "showInFooter": true
+    },
+    {
+      "enabled": true,
+      "name": "TikTok",
+      "id": "soc-tt",
+      "showInFooter": true,
+      "url": "https://tiktok.com/@ammiexpress.pk",
+      "order": 3,
+      "showInHeader": true,
+      "platform": "tiktok"
+    },
+    {
+      "showInFooter": true,
+      "order": 7,
+      "enabled": false,
+      "platform": "twitter",
+      "url": "https://twitter.com/ammiexpresspk",
+      "showInHeader": false,
+      "id": "soc-tw",
+      "name": "Twitter / X"
+    },
+    {
+      "order": 4,
+      "enabled": true,
+      "showInHeader": true,
+      "name": "WhatsApp Channel",
+      "id": "soc-wa",
+      "showInFooter": true,
+      "platform": "whatsapp",
+      "url": "https://wa.me/923082494870"
+    },
+    {
+      "order": 5,
+      "enabled": true,
+      "name": "YouTube",
+      "showInFooter": true,
+      "url": "https://youtube.com/@ammiexpresspk",
+      "platform": "youtube",
+      "showInHeader": false,
+      "id": "soc-yt"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "name": "Khizer Ahmed",
+      "city": "Lahore",
+      "rating": 5,
+      "comment": "Bohot achi quality ka passport wallet hai. Passport, ATM cards aur cash sab aik hi jagah a gaye. Highly recommended for traveling!",
+      "date": "Yesterday",
+      "verifiedPurchase": true,
+      "approved": true
+    },
+    {
+      "id": "rev-02",
+      "name": "Ali Raza",
+      "city": "Faisalabad",
+      "rating": 5,
+      "comment": "MashaAllah packaging and material is top class. Multiple pockets hain aur travel documents bohot easily organize ho jate hain.",
+      "date": "2 days ago",
+      "verifiedPurchase": true,
+      "approved": true
+    },
+    {
+      "id": "rev-03",
+      "name": "Hamza Malik",
+      "city": "Okara",
+      "rating": 5,
+      "comment": "Very practical and lightweight travel organizer. Airport par documents nikalna bohot aasan ho gaya. Fast delivery from Ammi Express!",
+      "date": "3 days ago",
+      "verifiedPurchase": true,
+      "approved": true
+    },
+    {
+      "id": "rev-04",
+      "name": "Daniyal Sheikh",
+      "city": "Karachi",
+      "rating": 5,
+      "comment": "Finishing aur stitching bohot zabardast hai. Durable synthetic leather material aur pocket layout bohot useful hai.",
+      "date": "4 days ago",
+      "verifiedPurchase": true,
+      "approved": true
+    },
+    {
+      "id": "rev-05",
+      "name": "Talha Khan",
+      "city": "Jhelum",
+      "rating": 5,
+      "comment": "Received exactly what was shown in the pictures. Cash on delivery par check karke payment ki, totally satisfied!",
+      "date": "5 days ago",
+      "verifiedPurchase": true,
+      "approved": true
+    },
+    {
+      "id": "rev-06",
+      "name": "Bilal Gujjar",
+      "city": "Samundri",
+      "rating": 5,
+      "comment": "10/10 quality and very reasonable price. Travel essentials ke liye must-have organizer hai.",
+      "date": "1 week ago",
+      "verifiedPurchase": true,
+      "approved": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I place an order?",
+      "answer": "Simply select your desired color and quantity, fill in your delivery details in the order form at the bottom of the page, choose your preferred payment method (Cash on Delivery or JazzCash QR), and click \"Complete Order\". You will also receive an instant confirmation message.",
+      "id": "faq-1"
+    },
+    {
+      "id": "faq-2",
+      "question": "Is Cash on Delivery (COD) available across Pakistan?",
+      "answer": "Yes! We provide Cash on Delivery all across Pakistan. You only pay cash to the courier rider when the parcel arrives safely at your doorstep."
+    },
+    {
+      "question": "How do I pay using JazzCash QR?",
+      "id": "faq-3",
+      "answer": "Select \"JazzCash QR Payment\" in the checkout form. You will see our verified Ammi Express QR Code and Till / Account details (0308-2494870). Scan with your JazzCash app, enter the grand total, and upload the screenshot or transaction ID. Your order will be prioritized and verified quickly."
+    },
+    {
+      "question": "How long does delivery take?",
+      "answer": "Standard delivery takes 2 to 4 business days. Major cities like Lahore, Karachi, Rawalpindi, and Islamabad usually receive deliveries within 48 to 72 hours via our courier partners (TCS, Leopards, Trax).",
+      "id": "faq-4"
+    },
+    {
+      "id": "faq-5",
+      "question": "Can I check the parcel before paying?",
+      "answer": "Yes, we pack all items in genuine sealed boxes with our 7-Day Checking and Replacement Guarantee. If there is any fault, damage, or discrepancy, our WhatsApp support team (0308-2494870) resolves it immediately."
+    },
+    {
+      "id": "faq-6",
+      "question": "What is included inside the box?",
+      "answer": "The package contains 1x Ammi Express Smart Motor Unit, 1x 250ml Food-grade PC Bowl, 1x 4-Blade 304 Stainless Steel Cyclone Assembly, 1x USB Type-C Fast Charging Cable, and 1x English/Urdu User Instruction Manual."
+    }
+  ],
+  "orders": [],
+  "inventoryMovements": [],
+  "notifications": [],
+  "productHandlingTexts": [
+    {
+      "buyerProtectionHeading": "",
+      "safetyHeading": "🛡️ Reliable Quality for Every Journey",
+      "safetyDescription": "Durable material and a secure multi-compartment design help keep your passport, cards, cash, and other travel essentials organized and protected while you travel.",
+      "updatedAt": "2026-10-01T08:51:37.833Z",
+      "mainHeading": "",
+      "buyerProtectionDescription": "",
+      "sku": "SKU: PTW-001",
+      "deletedAt": null,
+      "deliveryText": "",
+      "benefitsHeading": "",
+      "storyDescription": "Keep your passport, cards, cash, and travel essentials organized in one compact and durable wallet. ✈️",
+      "ctaText": "",
+      "mainDescription": "",
+      "benefitsSection": {
+        "eyebrow": "✨ Premium Travel Organizer",
+        "description": "Keep your passport, cards, cash, SIM cards, and travel documents neatly organized in one compact and durable wallet—perfect for vacations, business trips, and everyday travel.",
+        "heading": "✈️ Everything You Need for Organized & Stress-Free Travel"
+      },
+      "deepDiveBadge": "",
+      "guaranteeText": "",
+      "storyHeading": "✈️ Your Perfect Travel Companion for Every Journey",
+      "customSections": [],
+      "benefits": [
+        {
+          "text": "Complete Travel Organization",
+          "enabled": true,
+          "id": "ben-1790843498957-275",
+          "title": "Complete Travel Organization",
+          "displayOrder": 1,
+          "description": "Keep your passport, cards, cash, SIM cards, and travel documents neatly organized in one place.",
+          "icon": "Zap"
+        },
+        {
+          "description": "Separate compartments make it easy to store and quickly access your essential travel items.",
+          "displayOrder": 2,
+          "text": "Multiple Compartments",
+          "icon": "Star",
+          "id": "ben-1790843525349-342",
+          "title": "Multiple Compartments",
+          "enabled": true
+        },
+        {
+          "description": "Made for regular travel with a practical, sleek design that's convenient to carry.",
+          "icon": "CheckCircle2",
+          "displayOrder": 3,
+          "enabled": true,
+          "id": "ben-1790843566141-770",
+          "text": "Durable & Stylish Design",
+          "title": "Durable & Stylish Design"
+        },
+        {
+          "enabled": true,
+          "icon": "Flame",
+          "title": "Compact & Travel-Friendly",
+          "description": "Lightweight and easy to carry in your backpack, handbag, or luggage—perfect for vacations and business trips.",
+          "displayOrder": 4,
+          "id": "ben-1790843601380-887",
+          "text": "Compact & Travel-Friendly"
+        }
+      ],
+      "productId": "prod-ammi-1790844044142",
+      "createdAt": "2026-10-01T08:40:44.142Z"
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "id": "perf-1790862119224-wqqsx",
+      "timestamp": "2026-10-01T13:41:59.224Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 34647,
+      "apiLatencyMs": 726,
+      "apiPayloadSizeBytes": 29173,
+      "imageLoadTimeMs": 0,
+      "imageCount": 0,
+      "slowestImageTimeMs": 0,
+      "totalImageSizeBytes": 0,
+      "imagesDetail": [],
+      "resourcesSummary": {
+        "imagesCount": 0,
+        "scriptsCount": 60,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1774663
+      },
+      "ttfbMs": 522,
+      "domContentLoadedMs": 34640,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790769479831-ykhk1",
+      "timestamp": "2026-09-30T11:57:59.831Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 7127,
+      "apiLatencyMs": 556,
+      "apiPayloadSizeBytes": 29717,
+      "imageLoadTimeMs": 3,
+      "imageCount": 3,
+      "slowestImageName": "photo-1556911220-e15b29be8c8f",
+      "slowestImageTimeMs": 6,
+      "totalImageSizeBytes": 748566,
+      "imagesDetail": [
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 6,
+          "transferSizeBytes": 20113,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 4,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 60,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5422281
+      },
+      "ttfbMs": 485,
+      "domContentLoadedMs": 7123,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790768602863-71jvx",
+      "timestamp": "2026-09-30T11:43:22.864Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 25554,
+      "apiLatencyMs": 666,
+      "apiPayloadSizeBytes": 25894,
+      "imageLoadTimeMs": 18,
+      "imageCount": 2,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 28,
+      "totalImageSizeBytes": 716790,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 28,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 7,
+          "transferSizeBytes": 20113,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 2,
+        "scriptsCount": 60,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 2488499
+      },
+      "ttfbMs": 465,
+      "domContentLoadedMs": 25539,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790680584289-1x0k4",
+      "timestamp": "2026-09-29T11:16:24.289Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 10080,
+      "apiLatencyMs": 515,
+      "apiPayloadSizeBytes": 26170,
+      "imageLoadTimeMs": 56,
+      "imageCount": 1,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 56,
+      "totalImageSizeBytes": 696677,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 56,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 2452011
+      },
+      "ttfbMs": 476,
+      "domContentLoadedMs": 10075,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790608547020-9tlwb",
+      "timestamp": "2026-09-28T15:15:47.020Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 16422,
+      "apiLatencyMs": 528,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 150,
+      "imageCount": 3,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 378,
+      "totalImageSizeBytes": 764940,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 378,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 40,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 32,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 4664702
+      },
+      "ttfbMs": 456,
+      "domContentLoadedMs": 16413,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790607107278-ph251",
+      "timestamp": "2026-09-28T14:51:47.278Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 7841,
+      "apiLatencyMs": 536,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 0,
+      "imageCount": 6,
+      "slowestImageTimeMs": 0,
+      "totalImageSizeBytes": 1144228,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_0f3cc2f232bcb5c3857-1790410944169.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 105185,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_f16980bc74320920579-1790410945191.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 69034,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_fbe419119af0dd0153c-1790410946577.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 159580,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_4a85f86ac8870fdc288-1790410947620.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 81976,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 6,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5155654
+      },
+      "ttfbMs": 468,
+      "domContentLoadedMs": 7834,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790604936319-x0nn3",
+      "timestamp": "2026-09-28T14:15:36.319Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 9194,
+      "apiLatencyMs": 502,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 34,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 34,
+      "totalImageSizeBytes": 36487,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 34,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1790517
+      },
+      "ttfbMs": 458,
+      "domContentLoadedMs": 9185,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790599161178-6g55g",
+      "timestamp": "2026-09-28T12:39:21.178Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 4870,
+      "apiLatencyMs": 2143,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 219,
+      "imageCount": 5,
+      "slowestImageName": "photo-1588854337236-6889d631faa8",
+      "slowestImageTimeMs": 383,
+      "totalImageSizeBytes": 1059615,
+      "imagesDetail": [
+        {
+          "name": "photo-1588854337236-6889d631faa8",
+          "durationMs": 383,
+          "transferSizeBytes": 59132,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 378,
+          "transferSizeBytes": 201383,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 305,
+          "transferSizeBytes": 65936,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 17,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 13,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 5,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 8690427
+      },
+      "ttfbMs": 0,
+      "domContentLoadedMs": 898,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "back_forward",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790598860868-yv9yp",
+      "timestamp": "2026-09-28T12:34:20.868Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 11152,
+      "apiLatencyMs": 512,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 25,
+      "imageCount": 2,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 27,
+      "totalImageSizeBytes": 68263,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 27,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 23,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 2,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1841962
+      },
+      "ttfbMs": 494,
+      "domContentLoadedMs": 11149,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790331965933-22kfs",
+      "timestamp": "2026-09-25T10:26:05.933Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 11193,
+      "apiLatencyMs": 596,
+      "apiPayloadSizeBytes": 36521,
+      "imageLoadTimeMs": 770,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 770,
+      "totalImageSizeBytes": 36787,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 770,
+          "transferSizeBytes": 36787,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1831109
+      },
+      "ttfbMs": 526,
+      "domContentLoadedMs": 11181,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790243318066-k6sux",
+      "timestamp": "2026-09-24T09:48:38.066Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 5701,
+      "apiLatencyMs": 519,
+      "apiPayloadSizeBytes": 36533,
+      "imageLoadTimeMs": 39,
+      "imageCount": 7,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 227,
+      "totalImageSizeBytes": 1088473,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 227,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 13,
+          "transferSizeBytes": 201083,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 12,
+          "transferSizeBytes": 65636,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 8,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1513694203232-719a280e022f",
+          "durationMs": 6,
+          "transferSizeBytes": 19879,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584308666744-24d5c474f2ae",
+          "durationMs": 6,
+          "transferSizeBytes": 39082,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 3,
+          "transferSizeBytes": 32187,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 7,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 4988535
+      },
+      "ttfbMs": 528,
+      "domContentLoadedMs": 5690,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790242990470-f07g4",
+      "timestamp": "2026-09-24T09:43:10.470Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 8407,
+      "apiLatencyMs": 511,
+      "apiPayloadSizeBytes": 36533,
+      "imageLoadTimeMs": 149,
+      "imageCount": 11,
+      "slowestImageName": "photo-1556911220-e15b29be8c8f",
+      "slowestImageTimeMs": 574,
+      "totalImageSizeBytes": 1631926,
+      "imagesDetail": [
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 574,
+          "transferSizeBytes": 32487,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584308666744-24d5c474f2ae",
+          "durationMs": 568,
+          "transferSizeBytes": 39382,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 351,
+          "transferSizeBytes": 201383,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 114,
+          "transferSizeBytes": 65936,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1513694203232-719a280e022f",
+          "durationMs": 30,
+          "transferSizeBytes": 19879,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 3,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_2c174fb94bfebd3e78d-1790151342793.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 57629,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_a59ca5c2fd93b49cfa4-1790151343478.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 49228,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_d5a077010bb7c7767ab-1790151344385.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 69524,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_15_09ee989b9616f61691d-1790151353896.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 365872,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 11,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5752511
+      },
+      "ttfbMs": 463,
+      "domContentLoadedMs": 8402,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790240696858-l3cu6",
+      "timestamp": "2026-09-24T09:04:56.858Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 15165,
+      "apiLatencyMs": 505,
+      "apiPayloadSizeBytes": 34853,
+      "imageLoadTimeMs": 191,
+      "imageCount": 3,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 499,
+      "totalImageSizeBytes": 788235,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 499,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 58,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_2c174fb94bfebd3e78d-1790151342793.jpg",
+          "durationMs": 15,
+          "transferSizeBytes": 57629,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5414477
+      },
+      "ttfbMs": 544,
+      "domContentLoadedMs": 15157,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790239491665-nykpj",
+      "timestamp": "2026-09-24T08:44:51.665Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 8400,
+      "apiLatencyMs": 672,
+      "apiPayloadSizeBytes": 30293,
+      "imageLoadTimeMs": 18,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 18,
+      "totalImageSizeBytes": 33929,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 18,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1800085
+      },
+      "ttfbMs": 471,
+      "domContentLoadedMs": 8396,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790166878414-9di4t",
+      "timestamp": "2026-09-23T12:34:38.414Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 3100,
+      "apiLatencyMs": 1178,
+      "apiPayloadSizeBytes": 42800,
+      "imageLoadTimeMs": 1612,
+      "imageCount": 14,
+      "slowestImageName": "/uploads/chopper-hero-emerald-forest.webp",
+      "slowestImageTimeMs": 1488,
+      "totalImageSizeBytes": 1420500,
+      "imagesDetail": [
+        {
+          "name": "chopper-hero-emerald-forest.webp",
+          "durationMs": 1488,
+          "transferSizeBytes": 412000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-real-jazzcash-qr.png",
+          "durationMs": 682,
+          "transferSizeBytes": 98400,
+          "initiatorType": "img"
+        },
+        {
+          "name": "chopper-specs-diagram.webp",
+          "durationMs": 961,
+          "transferSizeBytes": 245000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-logo-badge.png",
+          "durationMs": 465,
+          "transferSizeBytes": 45000,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 14,
+        "scriptsCount": 5,
+        "stylesheetsCount": 2,
+        "totalTransferBytes": 1980000
+      },
+      "ttfbMs": 465,
+      "domContentLoadedMs": 2015,
+      "navigationType": "simulated_test",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Simulated Benchmark Test"
+    },
+    {
+      "id": "perf-1790166873332-p86dd",
+      "timestamp": "2026-09-23T12:34:33.332Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 1420,
+      "apiLatencyMs": 85,
+      "apiPayloadSizeBytes": 45120,
+      "imageLoadTimeMs": 280,
+      "imageCount": 12,
+      "slowestImageName": "chopper-hero-emerald-forest.webp",
+      "slowestImageTimeMs": 510,
+      "totalImageSizeBytes": 1250000,
+      "imagesDetail": [
+        {
+          "name": "chopper-hero-emerald-forest.webp",
+          "durationMs": 510,
+          "transferSizeBytes": 380000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-real-jazzcash-qr.png",
+          "durationMs": 190,
+          "transferSizeBytes": 92000,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 12,
+        "scriptsCount": 4,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1650000
+      },
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": false,
+      "userAgent": "curl/7.88.1"
+    },
+    {
+      "id": "perf-1790166312170-p9kci",
+      "timestamp": "2026-09-23T12:25:12.170Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 2340,
+      "apiLatencyMs": 120,
+      "ttfbMs": 45,
+      "domContentLoadedMs": 890,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "node"
+    }
+  ],
+  "performanceSettings": {
+    "thresholdMs": 1000,
+    "alertEnabled": true,
+    "trackStorefront": true
+  }
+}
