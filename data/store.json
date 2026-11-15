@@ -1,0 +1,2155 @@
+{
+  "adminUsers": [
+    {
+      "role": "super_admin",
+      "id": "admin-01",
+      "username": "admin Bilal",
+      "email": "ammiexpresssupport@gmail.com",
+      "salt": "ammiexpress_salt_2025",
+      "updatedAt": "2026-09-28T14:47:20.419Z",
+      "passwordHash": "d484b1722efc81dc89678016c5f66eb97bdc8c30fe281bc9236d73c7aac546d2e4edca9712280874b0b514c4e6566dea63a0b0169f377c7d32211f096719d846",
+      "lastLoginAt": "2026-09-30T13:17:14.918Z"
+    }
+  ],
+  "products": [
+    {
+      "images": [
+        "/uploads/products-1791734408252-lsvxzr4-2-in-1-glitter-beauty-ess.jpg",
+        "/uploads/products-1791734413839-qt2i1rd-ammi-express-2-in-1-beaut.jpg",
+        "/uploads/products-1791734419684-en6ag94-2-in-1-beauty-trimmer-ess.jpg",
+        "/uploads/products-1791734426181-m8p6xsu-ammi-express-beauty-trimm.jpg",
+        "/uploads/products-1791734432622-xfie7wq-rose-gold-2-in-1-trimmer-.jpg"
+      ],
+      "handlingContent": {
+        "createdAt": "2026-10-01T08:40:44.142Z",
+        "ctaText": "",
+        "guaranteeText": "",
+        "mainDescription": "Discover effortless beauty with the Ammi Express 2-in-1 Eyebrow Trimmer & Facial Hair Remover. Designed for convenient everyday grooming, this compact beauty essential helps you shape your eyebrows and remove unwanted facial hair with ease. Its stylish design makes it a practical addition to your beauty routine at home or while travelling. Enjoy a neat, polished look with one convenient grooming tool — now available for just Rs. 1,199!",
+        "safetyDescription": "At Ammi Express, we believe your beauty routine should be simple and convenient. Our 2-in-1 Eyebrow Trimmer & Facial Hair Remover is designed for everyday personal grooming. For the best experience, read the product instructions before use, handle the grooming head carefully, and use the device gently on the intended areas. Keep the device clean and store it safely after use. Choose Ammi Express for a convenient addition to your daily beauty routine.",
+        "storyDescription": "Meet your new everyday beauty companion from Ammi Express! Our 2-in-1 Eyebrow Trimmer & Facial Hair Remover is designed to make your personal grooming routine simple and convenient. Whether you want to tidy up your eyebrows or remove unwanted facial hair, this compact beauty tool brings two grooming functions together in one stylish design. Easy to carry and convenient for everyday touch-ups, it fits effortlessly into your beauty routine at home or while travelling. Enjoy a polished look with less hassle and more convenience — all for just Rs. 1,199!",
+        "buyerProtectionDescription": "At Ammi Express, your satisfaction matters to us. We carefully prepare your order and aim to provide a smooth, reliable shopping experience. Enjoy the convenience of Cash on Delivery (COD), so you can pay when your order arrives. For assistance with your order, delivery, or product concerns, please contact our customer support team. We are here to help make your shopping experience easy and worry-free.",
+        "storyHeading": "Your Everyday Beauty Essential",
+        "benefits": [
+          {
+            "text": "Complete Travel Organization",
+            "enabled": true,
+            "title": "2-in-1 Beauty Solution",
+            "displayOrder": 1,
+            "id": "ben-1790843498957-275",
+            "description": "Shape your eyebrows and remove unwanted facial hair with one convenient beauty tool. Simplify your everyday grooming routine with Ammi Express.",
+            "icon": "Heart"
+          },
+          {
+            "enabled": true,
+            "id": "ben-1790843525349-342",
+            "description": "Enjoy a simple grooming routine at home whenever you need a quick beauty touch-up. Designed for convenient everyday personal care.",
+            "icon": "Star",
+            "text": "Multiple Compartments",
+            "displayOrder": 2,
+            "title": "Easy & Convenient Grooming"
+          },
+          {
+            "displayOrder": 3,
+            "description": "Its compact design makes it easy to carry in your handbag or travel pouch, so your beauty essential is always within reach.",
+            "title": "Compact & Travel-Friendly",
+            "icon": "CheckCircle2",
+            "text": "Durable & Stylish Design",
+            "enabled": true,
+            "id": "ben-1790843566141-770"
+          },
+          {
+            "description": "Keep your personal grooming routine simple and convenient. Enjoy a neat, well-groomed look at home, at work, or while travelling.",
+            "displayOrder": 4,
+            "icon": "BatteryCharging",
+            "title": "Your Beauty, Your Confidence",
+            "enabled": true,
+            "text": "Compact & Travel-Friendly",
+            "id": "ben-1790843601380-887"
+          }
+        ],
+        "deliveryText": "",
+        "deepDiveBadge": "✨ 2-IN-1 BEAUTY ESSENTIAL",
+        "benefitsSection": {
+          "heading": "Your Beauty Routine, Made Effortless",
+          "description": "Enjoy effortless eyebrow shaping and facial hair removal with our 2-in-1 beauty essential. Compact, convenient, and easy to use — your everyday partner for a polished look, wherever you go. 💖",
+          "eyebrow": "YOUR DAILY BEAUTY ESSENTIAL"
+        },
+        "deletedAt": null,
+        "mainHeading": "Why You'll Love Our 2-in-1 Beauty Trimmer",
+        "customSections": [],
+        "benefitsHeading": "Your Everyday Beauty Benefits",
+        "buyerProtectionHeading": "Shop with Confidence at Ammi Express",
+        "sku": "SKU: PTW-001",
+        "productId": "prod-ammi-1790844044142",
+        "safetyHeading": "Your Beauty, Our Priority",
+        "updatedAt": "2026-10-12T13:21:34.344Z"
+      },
+      "updatedAt": "2026-11-05T13:19:18.676Z",
+      "rating": 5,
+      "isFeatured": false,
+      "badge": "✨ BESTSELLER • 2-IN-1 BEAUTY ESSENTIAL",
+      "variants": [
+        {
+          "name": "Pink Glitter",
+          "id": "v-1790843964403",
+          "colorCode": "#ff1493",
+          "inStock": false
+        }
+      ],
+      "sku": "SKU: PTW-001",
+      "detailedDescription": {
+        "bulletPoints": [
+          "High durability",
+          "Easy to clean",
+          "Premium Pakistani household essential"
+        ],
+        "intro": "",
+        "sections": [],
+        "highlightBox": "⭐ 100% Genuine Quality Guarantee by Ammi Express"
+      },
+      "slug": "premium-passport-holder-travel-wallet-durable-multi-compartment-organizer-for-passport-cards-cash-travel-essentials-random-colour",
+      "features": [
+        {
+          "highlight": true,
+          "id": "f1",
+          "icon": "Cpu",
+          "title": "High-Power Motor",
+          "description": "Pure copper winding for prolonged heavy-duty longevity."
+        }
+      ],
+      "benefitsSection": {
+        "eyebrow": "YOUR DAILY BEAUTY ESSENTIAL",
+        "description": "Enjoy effortless eyebrow shaping and facial hair removal with our 2-in-1 beauty essential. Compact, convenient, and easy to use — your everyday partner for a polished look, wherever you go. 💖",
+        "heading": "Your Beauty Routine, Made Effortless"
+      },
+      "publishedAt": "2026-10-01T08:41:02.972Z",
+      "videoUrl": "https://youtube.com/shorts/nYe99dYD8p0?feature=share",
+      "salePrice": 1199,
+      "stockCount": 14,
+      "headline": "Your Beauty, Your Confidence — Smooth & Beautiful Every Day!",
+      "regularPrice": 1550,
+      "shortDescription": "Get perfectly shaped brows and smooth facial skin with one compact beauty device! The 2-in-1 Eyebrow Trimmer & Facial Hair Remover makes your daily grooming routine quick, easy, and convenient — anytime, anywhere. 💖",
+      "productVideoLink": "https://youtube.com/shorts/nYe99dYD8p0?feature=share",
+      "specifications": [
+        {
+          "label": "Product Name",
+          "value": "2-in-1 Eyebrow Trimmer & Facial Hair Remover"
+        },
+        {
+          "label": "Product Type",
+          "value": "Personal Care & Beauty Tool"
+        },
+        {
+          "value": "Eyebrow Shaping & Facial Hair Removal",
+          "label": "Main Use"
+        },
+        {
+          "label": "Design",
+          "value": "Compact & Portable"
+        },
+        {
+          "label": "Usage",
+          "value": "Everyday Personal Grooming"
+        },
+        {
+          "label": "Suitable For",
+          "value": "Women"
+        },
+        {
+          "value": "Easy to Carry in a Handbag",
+          "label": "Portability"
+        },
+        {
+          "value": "Ammi Express",
+          "label": "Brand"
+        }
+      ],
+      "currency": "Rs.",
+      "title": "2-in-1 Eyebrow Trimmer & Facial Hair Remover for Women",
+      "lowStockThreshold": 10,
+      "id": "prod-ammi-1790844044142",
+      "status": "trash",
+      "reviewCount": 0,
+      "howItWorks": [],
+      "costPrice": 600,
+      "benefits": [
+        {
+          "title": "2-in-1 Beauty Solution",
+          "text": "Complete Travel Organization",
+          "id": "ben-1790843498957-275",
+          "createdAt": "2026-10-11T16:36:15.580Z",
+          "enabled": true,
+          "description": "Shape your eyebrows and remove unwanted facial hair with one convenient beauty tool. Simplify your everyday grooming routine with Ammi Express.",
+          "updatedAt": "2026-10-11T16:36:15.580Z",
+          "displayOrder": 1,
+          "icon": "Heart",
+          "productId": "prod-ammi-1790844044142"
+        },
+        {
+          "description": "Enjoy a simple grooming routine at home whenever you need a quick beauty touch-up. Designed for convenient everyday personal care.",
+          "displayOrder": 2,
+          "createdAt": "2026-10-11T16:36:15.581Z",
+          "title": "Easy & Convenient Grooming",
+          "id": "ben-1790843525349-342",
+          "icon": "Star",
+          "text": "Multiple Compartments",
+          "productId": "prod-ammi-1790844044142",
+          "enabled": true,
+          "updatedAt": "2026-10-11T16:36:15.581Z"
+        },
+        {
+          "id": "ben-1790843566141-770",
+          "icon": "CheckCircle2",
+          "updatedAt": "2026-10-11T16:36:15.581Z",
+          "displayOrder": 3,
+          "title": "Compact & Travel-Friendly",
+          "productId": "prod-ammi-1790844044142",
+          "description": "Its compact design makes it easy to carry in your handbag or travel pouch, so your beauty essential is always within reach.",
+          "text": "Durable & Stylish Design",
+          "createdAt": "2026-10-11T16:36:15.581Z",
+          "enabled": true
+        },
+        {
+          "description": "Keep your personal grooming routine simple and convenient. Enjoy a neat, well-groomed look at home, at work, or while travelling.",
+          "createdAt": "2026-10-11T16:36:15.581Z",
+          "icon": "BatteryCharging",
+          "title": "Your Beauty, Your Confidence",
+          "id": "ben-1790843601380-887",
+          "productId": "prod-ammi-1790844044142",
+          "enabled": true,
+          "text": "Compact & Travel-Friendly",
+          "displayOrder": 4,
+          "updatedAt": "2026-10-11T16:36:15.581Z"
+        }
+      ],
+      "createdAt": "2026-10-01T08:40:44.142Z"
+    },
+    {
+      "salePrice": 3200,
+      "stockCount": 50,
+      "regularPrice": 4200,
+      "id": "prod-ammi-1793895512696",
+      "slug": "maa-ji-pure-desi-ghee-traditional-homemade-desi-ghee-1-kg",
+      "badge": "100% Pure & Traditionally Homemade",
+      "rating": 5,
+      "images": [
+        "/uploads/products-1794050006053-tppdr2s-mamaji-desighee-550x600.jpg",
+        "/uploads/products-1794050182442-69pl9cc-maa-ji-550x600-exact.jpg",
+        "/uploads/products-1794050420055-ziio0sg-desi-ghee-poster-square-6.jpg"
+      ],
+      "lowStockThreshold": 10,
+      "updatedAt": "2026-11-14T01:53:24.518Z",
+      "benefits": [
+        {
+          "updatedAt": "2026-11-08T03:45:41.053Z",
+          "title": "Rich in Vitamins A, D, E & K",
+          "productId": "prod-ammi-1793895512696",
+          "text": "Rich in Vitamins A, D, E & K",
+          "id": "b1",
+          "description": "Traditionally prepared desi ghee provides naturally occurring vitamins A, D, E, and K as part of a wholesome diet.",
+          "enabled": true,
+          "icon": "Zap",
+          "displayOrder": 1,
+          "createdAt": "2026-11-08T03:45:41.053Z"
+        },
+        {
+          "displayOrder": 2,
+          "text": "Natural Source of Energy",
+          "enabled": true,
+          "id": "b2",
+          "description": "Provides concentrated energy to support your daily activities as part of a balanced diet.",
+          "createdAt": "2026-11-08T03:45:41.053Z",
+          "title": "Natural Source of Energy",
+          "updatedAt": "2026-11-08T03:45:41.053Z",
+          "productId": "prod-ammi-1793895512696",
+          "icon": "Star"
+        },
+        {
+          "displayOrder": 3,
+          "id": "ben-1793895042677-634",
+          "icon": "CheckCircle2",
+          "createdAt": "2026-11-08T03:45:41.053Z",
+          "description": "Enjoy the rich, traditional flavor of homemade desi ghee, crafted from fresh milk cream and churned butter to bring authentic taste and aroma to your meals.",
+          "productId": "prod-ammi-1793895512696",
+          "text": "Authentic Homemade Taste",
+          "enabled": true,
+          "updatedAt": "2026-11-08T03:45:41.053Z",
+          "title": "Authentic Homemade Taste"
+        },
+        {
+          "displayOrder": 4,
+          "updatedAt": "2026-11-08T03:45:41.053Z",
+          "description": "Maa Ji Desi Ghee is prepared at home using traditional methods, starting with fresh milk cream that is churned into butter and slowly cooked into golden ghee. Every batch reflects the warmth of homemade preparation and the rich taste of traditional cooking.",
+          "title": "Traditional Homemade Goodness",
+          "productId": "prod-ammi-1793895512696",
+          "text": "Traditional Homemade Goodness",
+          "enabled": true,
+          "icon": "CheckCircle2",
+          "createdAt": "2026-11-08T03:45:41.053Z",
+          "id": "ben-1794107026543-772"
+        }
+      ],
+      "publishedAt": "2026-11-05T16:18:51.465Z",
+      "isFeatured": true,
+      "shortDescription": "Authentic Homemade Desi Ghee, Made from Fresh Milk Cream and Traditional Churned Butter for Rich Taste, Golden Aroma, and Natural Goodness.",
+      "costPrice": 1600,
+      "productVideoLink": "",
+      "variants": [],
+      "benefitsSection": {
+        "heading": "Experience the Rich Taste of Pure Desi Ghee",
+        "eyebrow": "TRADITIONAL HOMEMADE GOODNESS",
+        "description": "Made from fresh milk cream and traditionally churned butter, Maa Ji Desi Ghee brings authentic homemade taste, rich aroma, and natural goodness to your everyday meals."
+      },
+      "createdAt": "2026-11-05T16:18:32.697Z",
+      "detailedDescription": {
+        "sections": [],
+        "bulletPoints": [
+          "High durability",
+          "Easy to clean",
+          "Premium Pakistani household essential"
+        ],
+        "highlightBox": "⭐ 100% Genuine Quality Guarantee by Ammi Express",
+        "intro": ""
+      },
+      "reviewCount": 0,
+      "handlingContent": {
+        "deletedAt": null,
+        "deliveryText": "DELIVERY IN 3–5 WORKING DAYS",
+        "storyDescription": "At Maa Ji, every batch of desi ghee begins with fresh milk cream, carefully collected at home. We gently churn the cream to separate the butter, then slowly cook it in a traditional large pot until it transforms into beautiful golden desi ghee.\n\nOur preparation follows a traditional homemade process, bringing authentic taste and warmth to your everyday meals. Once ready, the ghee is carefully packed to bring the delicious experience of Maa Ji Desi Ghee straight to your kitchen.\n\nMade with care, inspired by tradition, and prepared for your family's everyday cooking.",
+        "storyHeading": " Fresh Cream to Golden Desi Ghee",
+        "customSections": [],
+        "guaranteeText": "7-DAY REPLACEMENT GUARANTEE",
+        "mainHeading": "Experience the Authentic Taste of Maa Ji Desi Ghee",
+        "buyerProtectionDescription": "At Maa Ji Desi Ghee, your trust matters to us. Every order is carefully packed and checked before dispatch to ensure it reaches you in the best possible condition. We are committed to providing a smooth and reliable shopping experience. If you receive a damaged, incorrect, or defective product, please contact our customer support with your order details so we can assist you according to our return and replacement policy.",
+        "productId": "prod-ammi-1793895512696",
+        "deepDiveBadge": "AUTHENTIC DESI GHEE",
+        "mainDescription": "Discover the authentic taste of tradition with Maa Ji Desi Ghee. Carefully prepared at home using fresh milk cream, our ghee is made by churning cream into butter and slowly cooking it to create rich, golden desi ghee. Every batch is prepared with care, bringing traditional homemade taste and warmth to your everyday meals. Carefully packed to preserve its delicious flavor, Maa Ji Desi Ghee brings the goodness of traditional cooking straight to your kitchen.",
+        "benefits": [],
+        "updatedAt": "2026-11-08T03:02:33.888Z",
+        "safetyDescription": "At Maa Ji, every batch of desi ghee is prepared with care using our traditional homemade process. We pay attention to cleanliness during preparation and ensure the finished ghee is carefully packed before dispatch. Our goal is to deliver a well-prepared, properly packed product that brings traditional taste and quality to your kitchen.",
+        "createdAt": "2026-11-05T16:18:32.697Z",
+        "buyerProtectionHeading": "Your Trust & Satisfaction Matter to Us",
+        "benefitsSection": {
+          "description": "Made from fresh milk cream and traditionally churned butter, Maa Ji Desi Ghee brings authentic homemade taste, rich aroma, and natural goodness to your everyday meals.",
+          "eyebrow": "TRADITIONAL HOMEMADE GOODNESS",
+          "heading": "Experience the Rich Taste of Pure Desi Ghee"
+        },
+        "sku": "MAAJI-GHEE-1KG-001",
+        "safetyHeading": "Prepared with Care, Packed with Quality",
+        "benefitsHeading": "Made with Care, Enjoyed with Every Meal",
+        "ctaText": "Buy Maa Ji Desi Ghee Now"
+      },
+      "currency": "Rs.",
+      "headline": "Pure Desi Ghee, Made Traditionally at Home – Taste the Purity of Nature!",
+      "title": "Maa Ji Pure Desi Ghee – Traditional Homemade Desi Ghee | 1 KG",
+      "howItWorks": [],
+      "status": "published",
+      "videoUrl": "",
+      "sku": "MAAJI-GHEE-1KG-001",
+      "specifications": [
+        {
+          "label": "Product Type",
+          "value": "Pure Desi Ghee"
+        },
+        {
+          "label": "Net Weight",
+          "value": "1 KG (1000 Grams)"
+        },
+        {
+          "label": "Preparation Method",
+          "value": "Traditionally Homemade"
+        },
+        {
+          "label": "Main Ingredient",
+          "value": "Fresh Milk Cream (Malai)"
+        },
+        {
+          "label": "Traditional Process",
+          "value": "Churned Butter to Desi Ghee"
+        },
+        {
+          "label": "Taste",
+          "value": "Rich & Authentic Traditional Flavor"
+        },
+        {
+          "label": "Aroma",
+          "value": "Delicious Traditional Ghee Aroma"
+        },
+        {
+          "label": "Texture",
+          "value": "Rich & Golden"
+        },
+        {
+          "label": "Usage",
+          "value": "Cooking, Parathas, Roti & Traditional Recipes"
+        },
+        {
+          "value": "Store in a Cool, Dry Place",
+          "label": "Storage Instructions"
+        }
+      ],
+      "features": [
+        {
+          "description": "Pure copper winding for prolonged heavy-duty longevity.",
+          "id": "f1",
+          "icon": "Cpu",
+          "title": "High-Power Motor",
+          "highlight": true
+        }
+      ],
+      "packOptions": [
+        {
+          "id": "pack-500g",
+          "label": "500g",
+          "sublabel": "Half KG Jar",
+          "price": 1700,
+          "regularPrice": 2100,
+          "discountText": "",
+          "badge": "Trial Pack",
+          "inStock": true,
+          "isDefault": false
+        },
+        {
+          "id": "pack-1kg",
+          "label": "1 KG",
+          "sublabel": "Standard 1 KG Jar",
+          "price": 3200,
+          "regularPrice": 4200,
+          "discountText": "",
+          "badge": "Most Popular",
+          "inStock": true,
+          "isDefault": true
+        },
+        {
+          "id": "pack-2kg",
+          "label": "2 KG",
+          "sublabel": "Family Pack (2 x 1 KG)",
+          "price": 6200,
+          "regularPrice": 8400,
+          "discountText": "Discount Offer • Save Rs. 200",
+          "badge": "Discount Offer",
+          "inStock": true,
+          "isDefault": false
+        },
+        {
+          "id": "pack-3kg",
+          "label": "3 KG",
+          "sublabel": "Mega Family Pack (3 x 1 KG)",
+          "price": 9100,
+          "regularPrice": 12600,
+          "discountText": "Best Discount Offer • Save Rs. 500",
+          "badge": "Best Offer",
+          "inStock": true,
+          "isDefault": false
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "logoHeight": 46,
+    "jazzCashPayment": {
+      "verificationNotice": "Your payment will be manually verified by Ammi Express billing team within 30 minutes of order placement.",
+      "accountTitle": "Ammi Express",
+      "qrDescription": "Till ID: 984210573 | Dial *786*10# or Scan with JazzCash / Raast / Any Bank App",
+      "qrImageUrl": "/uploads/jazzcash-qr-1794470757890-uojfnyt-whatsapp-image-2026-11-12.jpg",
+      "instructions": "Open your JazzCash App > Tap \"Scan QR\" > Scan our verified merchant QR code or enter Till ID 984210573 > Take a screenshot and enter the Transaction ID below.",
+      "enabled": true,
+      "accountNumber": "0308-2494870",
+      "tillId": "984210573",
+      "qrTitle": "Ammi Express Official JazzCash / Raast Merchant Stand",
+      "qrCodeImage": "/uploads/jazzcash-qr-1794470757890-uojfnyt-whatsapp-image-2026-11-12.jpg",
+      "showQrCode": true
+    },
+    "trustPoints": [
+      {
+        "description": "If you receive any damaged or defective item, we replace it instantly with zero hassle.",
+        "icon": "ShieldCheck",
+        "id": "t1",
+        "title": "7-Day Return & Replacement"
+      },
+      {
+        "icon": "Truck",
+        "id": "t2",
+        "description": "Orders dispatched within 24 hours via premium tracked courier services across Pakistan.",
+        "title": "Fast Nationwide Delivery"
+      },
+      {
+        "description": "Pay safely with cash at your doorstep when you physically receive your package.",
+        "id": "t3",
+        "title": "Cash On Delivery Available",
+        "icon": "Banknote"
+      },
+      {
+        "icon": "Headphones",
+        "title": "Direct WhatsApp Support",
+        "id": "t4",
+        "description": "Real customer support on 0308-2494870 available 9:00 AM - 11:00 PM every day."
+      }
+    ],
+    "reviewsSectionTexts": {
+      "heading": "Trusted by Thousands Across Pakistan",
+      "badge": "Real Pakistani Feedback",
+      "description": "Real experiences from verified buyers in Lahore, Karachi, Islamabad, and across the country."
+    },
+    "codPayment": {
+      "instructions": "Pay with physical cash to the courier rider upon package inspection and delivery.",
+      "enabled": true
+    },
+    "freeDeliveryAbove": 3500,
+    "logoUrl": "/uploads/logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+    "deliverySectionTexts": {
+      "heading": "Fast, Reliable Delivery Across Pakistan",
+      "description": "We partner with Pakistan's leading courier networks to ensure your parcel reaches safely.",
+      "badge": "Nationwide Logistics"
+    },
+    "slogan": "Smart Products. Better Everyday Living.",
+    "logoAlignment": "right",
+    "businessName": "Ammi Express Pakistan",
+    "policies": {
+      "returnRefundPolicy": "We provide a 7-day hassle-free replacement warranty for manufacturing defects or shipping damages. Simply contact our official WhatsApp at 0308-2494870 with an unboxing video or photos, and our team will arrange a replacement parcel immediately.",
+      "shippingPolicy": "We ship nationwide using courier partners (TCS, Leopards, Trax). A flat delivery fee of Rs. 180 is applied at checkout. Once dispatched, a live tracking code is provided via SMS / WhatsApp.",
+      "privacyPolicy": "At Ammi Express, your privacy is strictly protected. We collect your delivery name, contact number, and address strictly for shipping and courier confirmation purposes. We never sell, share, or disclose your personal contact information to third parties.",
+      "termsConditions": "All orders placed on Ammi Express are subject to telephone or WhatsApp confirmation before dispatch. Delivery timelines are typically 2 to 4 business days depending on city location. Customers must provide valid contact details to avoid delivery cancellation."
+    },
+    "deliveryCharge": 180,
+    "visibility": {
+      "showCategories": true,
+      "showTrust": true,
+      "showSpecs": true,
+      "showFeatures": true,
+      "showOrderForm": true,
+      "showHero": true,
+      "showReviews": true,
+      "showFaqs": true,
+      "showFooterSocials": true,
+      "showBenefits": true,
+      "showDescription": true,
+      "showAnnouncement": true,
+      "showFeaturedProduct": true,
+      "showHeaderSocials": true,
+      "showDelivery": true,
+      "showHowItWorks": true,
+      "showTrendingGrid": true
+    },
+    "whatsappNumber": "0308-2494870",
+    "supportEmail": "support@ammiexpress.pk",
+    "socialLinks": {
+      "email": "ammiexpresssupport@gmail.com",
+      "whatsapp": "https://wa.me/923082494870",
+      "youtube": "https://youtube.com/@ammiexpresspk",
+      "pinterest": "https://pinterest.com/ammiexpresspk",
+      "twitter": "https://twitter.com/ammiexpresspk",
+      "facebook": "https://facebook.com/ammiexpress.pk",
+      "instagram": "https://instagram.com/ammiexpress.pk",
+      "tiktok": "https://tiktok.com/@ammiexpress.pk"
+    },
+    "heroSettings": {
+      "buttonLink": "#order-form",
+      "buttonText": "Order Cash On Delivery Now",
+      "badge": "100% Pure Desi Ghee",
+      "saleNotice": "Limited Time Offer – Get 24% OFF!",
+      "description": "Experience the authentic taste of traditional desi ghee, made for delicious meals and everyday family enjoyment.",
+      "bannerImage": "",
+      "subheading": "Experience the authentic taste of traditional desi ghee, made for delicious meals and everyday family enjoyment.",
+      "headingHighlight": "Traditional Taste",
+      "heading": "Pure Desi Ghee, Rich Traditional Taste"
+    },
+    "featuredProductId": "prod-ammi-1793895512696",
+    "brandName": "Ammi Express",
+    "faqSectionTexts": {
+      "heading": "Frequently Asked Questions",
+      "badge": "Got Questions?",
+      "description": "Everything you need to know about placing your order, delivery, and payment."
+    },
+    "announcementBar": {
+      "linkText": "Shop Now",
+      "text": "100% Pure Desi Ghee – Traditional Taste, Natural Goodness!",
+      "enabled": true
+    },
+    "supportPhone": "0308-2494870",
+    "deliveryInfo": {
+      "courierPartners": "TCS, Leopards, Call Courier & Trax Express",
+      "citiesCovered": "Delivering to over 250+ cities, towns, and villages across Pakistan",
+      "timeEstimate": "3 to 5 Business Days",
+      "packagingNotice": "Bubble-wrapped double reinforced box to ensure zero transit damage."
+    },
+    "seo": {
+      "metaDescription": "Shop premium home and kitchen products on Ammi Express Pakistan. Fast Cash on Delivery and JazzCash QR payment.",
+      "metaTitle": "Ammi Express - Smart Products. Better Everyday Living"
+    },
+    "footerSettings": {
+      "newsletterDescription": "Get WhatsApp and email alerts on upcoming seasonal discounts and kitchen essentials.",
+      "operatingHours": "9:00 AM – 11:00 PM (Mon-Sun)",
+      "copyrightText": "© 2026 Ammi Express Pakistan. All Rights Reserved.",
+      "newsletterTitle": "Subscribe for Exclusive Deals & New Arrivals",
+      "supportEmail": "support@ammiexpress.pk",
+      "showSocialLinks": true,
+      "address": "Ammi Express Logistics Center, Main Commercial Boulevard, Gulberg, Lahore, Pakistan",
+      "helplineNumber": "0308-2494870",
+      "aboutText": "Pakistan's trusted store for innovative, high-quality household and kitchen lifestyle gadgets. We bring smart products to improve your everyday living.",
+      "showNewsletter": true,
+      "showLogo": true
+    },
+    "trustSectionTexts": {
+      "heading": "Why Shop With Ammi Express?",
+      "badge": "Our Guarantee",
+      "description": "Built with trust, reliability, and honest customer service for every Pakistani household."
+    },
+    "logoWidth": 150,
+    "faviconUrl": "",
+    "colors": {
+      "dark": "#171717",
+      "primary": "#F5B800",
+      "accent": "#16803D"
+    },
+    "sectionHeadings": {
+      "orderFormSubtitle": "Fill in your delivery details below. Pay Cash on Delivery when rider arrives, or pay via JazzCash QR.",
+      "newArrivals": "New Arrivals",
+      "kitchenGadgets": "Premium Kitchen Collection",
+      "specificationsHeading": "Features & Technical Specifications",
+      "trendingProducts": "Trending Products",
+      "productGridSubtitle": "Customer Favorites Hand-picked for Quality",
+      "featuredProducts": "Featured Products",
+      "categoriesTitle": "Premium Kitchen Collection",
+      "orderFormTitle": "Complete Your Order",
+      "bestSelling": "Best Selling",
+      "featuresHeading": "Built for Power, Safety & Durability",
+      "productGridTitle": "Trending & New Arrivals",
+      "categoriesSubtitle": "Discover our curated range of quality home and kitchen essentials"
+    },
+    "showLogo": true,
+    "logoBg": "transparent",
+    "whatsappPrefilledMessage": "Assalam-o-Alaikum Ammi Express, I need information about {product}."
+  },
+  "categories": [],
+  "homepageSections": [
+    {
+      "description": "Key benefits and highlights for daily cooking prep",
+      "order": 4,
+      "subtitle": "Designed for Everyday Speed & Convenience",
+      "enabled": true,
+      "visible": true,
+      "title": "Why Pakistani Homes Love It",
+      "id": "sec-benefits",
+      "type": "benefits"
+    },
+    {
+      "title": "Explore Categories",
+      "subtitle": "Curated Kitchen & Home Collections",
+      "visible": true,
+      "order": 1,
+      "productIds": [],
+      "badge": "",
+      "backgroundColor": "",
+      "image": "",
+      "textColor": "",
+      "categoryId": "",
+      "buttonText": "",
+      "type": "categories",
+      "description": "Browse top trending product categories",
+      "buttonLink": "",
+      "enabled": true,
+      "id": "sec-categories"
+    },
+    {
+      "title": "Fast Nationwide Delivery",
+      "order": 8,
+      "type": "delivery",
+      "visible": true,
+      "enabled": true,
+      "description": "Orders dispatched within 24 hours",
+      "subtitle": "Doorstep Courier Tracking via TCS, Leopards & Trax",
+      "id": "sec-delivery"
+    },
+    {
+      "order": 10,
+      "description": "Answers about delivery times, checks, replacements, and JazzCash payment.",
+      "title": "Frequently Asked Questions",
+      "visible": true,
+      "enabled": true,
+      "subtitle": "Everything You Need to Know Before Ordering",
+      "type": "faqs",
+      "id": "sec-faqs"
+    },
+    {
+      "title": "Kitchen Gadgets Spotlight",
+      "description": "Ammi Express Smart Multi-Function Wireless Food Processor & Chopper",
+      "type": "featured_product",
+      "visible": true,
+      "order": 3,
+      "id": "sec-featured-product",
+      "enabled": true,
+      "subtitle": "2025 Bestseller - 40% Limited Time Offer",
+      "categoryId": "cat-kitchen"
+    },
+    {
+      "subtitle": "Flash Sale & Quick Order",
+      "productIds": [],
+      "image": "",
+      "description": "Main visual highlight with instant buy-now CTA",
+      "buttonText": "",
+      "badge": "",
+      "enabled": true,
+      "categoryId": "",
+      "title": "Hero Showcase",
+      "order": 1,
+      "textColor": "",
+      "visible": true,
+      "backgroundColor": "",
+      "id": "sec-hero",
+      "type": "hero",
+      "buttonLink": ""
+    },
+    {
+      "subtitle": "Fill your address details to confirm your order",
+      "type": "order_form",
+      "id": "sec-order-form",
+      "title": "Instant Cash on Delivery & JazzCash Checkout",
+      "order": 9,
+      "description": "No credit card required. Pay cash to the courier or scan JazzCash QR.",
+      "visible": true,
+      "enabled": true
+    },
+    {
+      "title": "Trending & New Arrivals",
+      "type": "product_grid",
+      "subtitle": "Customer Favorites Hand-picked for Quality",
+      "order": 5,
+      "id": "sec-product-grid",
+      "description": "Top requested appliances and rechargeable kitchen gear",
+      "enabled": true,
+      "visible": true
+    },
+    {
+      "id": "sec-reviews",
+      "subtitle": "Over 380+ 5-Star Reviews from Verified Buyers Across Pakistan",
+      "type": "reviews",
+      "order": 6,
+      "description": "Read what real homemakers in Karachi, Lahore, and Islamabad have to say",
+      "title": "Customer Experiences & Feedback",
+      "visible": true,
+      "enabled": true
+    },
+    {
+      "title": "Our Nationwide Promise",
+      "type": "trust",
+      "id": "sec-trust",
+      "order": 7,
+      "description": "Complete peace of mind with every order",
+      "visible": true,
+      "enabled": true,
+      "subtitle": "Safe Delivery, 7-Day Guarantee & Direct WhatsApp Support"
+    }
+  ],
+  "banners": [
+    {
+      "title": "Ramadan & Eid Kitchen Mega Sale",
+      "buttonLink": "#order-form",
+      "id": "ban-1",
+      "order": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+      "badge": "Special Promo",
+      "subtitle": "Save up to 40% on wireless choppers & blenders with free warranty",
+      "discountText": "FLAT 40% OFF",
+      "enabled": true,
+      "buttonText": "Shop Sale Deals"
+    },
+    {
+      "title": "Instant JazzCash & Raast Payment Bonus",
+      "order": 2,
+      "id": "ban-2",
+      "badge": "Express Dispatch",
+      "enabled": true,
+      "subtitle": "Pay via JazzCash Till ID 984210573 for express priority packaging",
+      "buttonText": "Pay With JazzCash",
+      "buttonLink": "#order-form",
+      "discountText": "FREE VIP PACKING"
+    }
+  ],
+  "socialMediaLinks": [
+    {
+      "showInHeader": true,
+      "id": "soc-email",
+      "url": "ammiexpresssupport@gmail.com",
+      "platform": "email",
+      "name": "Email",
+      "showInFooter": true,
+      "order": 8,
+      "enabled": true
+    },
+    {
+      "showInHeader": true,
+      "id": "soc-fb",
+      "platform": "facebook",
+      "url": "https://facebook.com/ammiexpress.pk",
+      "order": 1,
+      "name": "Facebook",
+      "showInFooter": true,
+      "enabled": true
+    },
+    {
+      "showInHeader": true,
+      "order": 2,
+      "platform": "instagram",
+      "name": "Instagram",
+      "enabled": true,
+      "url": "https://instagram.com/ammiexpress.pk",
+      "showInFooter": true,
+      "id": "soc-ig"
+    },
+    {
+      "url": "https://pinterest.com/ammiexpresspk",
+      "id": "soc-pin",
+      "enabled": false,
+      "platform": "pinterest",
+      "order": 6,
+      "showInHeader": false,
+      "showInFooter": true,
+      "name": "Pinterest"
+    },
+    {
+      "id": "soc-tt",
+      "showInHeader": true,
+      "url": "https://tiktok.com/@ammiexpress.pk",
+      "enabled": true,
+      "showInFooter": true,
+      "order": 3,
+      "name": "TikTok",
+      "platform": "tiktok"
+    },
+    {
+      "enabled": false,
+      "url": "https://twitter.com/ammiexpresspk",
+      "id": "soc-tw",
+      "order": 7,
+      "platform": "twitter",
+      "name": "Twitter / X",
+      "showInFooter": true,
+      "showInHeader": false
+    },
+    {
+      "enabled": true,
+      "id": "soc-wa",
+      "order": 4,
+      "showInFooter": true,
+      "url": "https://wa.me/923082494870",
+      "platform": "whatsapp",
+      "showInHeader": true,
+      "name": "WhatsApp Channel"
+    },
+    {
+      "url": "https://youtube.com/@ammiexpresspk",
+      "enabled": true,
+      "name": "YouTube",
+      "id": "soc-yt",
+      "showInHeader": false,
+      "order": 5,
+      "showInFooter": true,
+      "platform": "youtube"
+    }
+  ],
+  "reviews": [
+    {
+      "approved": true,
+      "name": "kashaf ali",
+      "date": "Just now",
+      "verifiedPurchase": true,
+      "id": "rev-1794107680890",
+      "rating": 5,
+      "comment": "\"The quality and taste of Maa Ji Desi Ghee are really good. It has a rich traditional flavor, and I am very happy with my purchase. Highly recommended!\"",
+      "city": "okara"
+    },
+    {
+      "comment": "\"I really liked Maa Ji Desi Ghee. The taste feels traditional, and the quality is impressive. Definitely a good choice for everyday cooking.\"",
+      "rating": 5,
+      "name": "Sania ashraf",
+      "approved": true,
+      "date": "Just now",
+      "city": "chiniot",
+      "verifiedPurchase": true,
+      "id": "rev-1794107731794"
+    },
+    {
+      "id": "rev-1794107845033",
+      "date": "Just now",
+      "approved": true,
+      "name": "ali raza",
+      "verifiedPurchase": true,
+      "rating": 5,
+      "comment": "\"I have purchased Maa Ji Desi Ghee multiple times, and the quality has been consistently good. The taste is rich, and I am satisfied with my experience.\"",
+      "city": "islamabad"
+    },
+    {
+      "name": "sumara",
+      "rating": 5,
+      "approved": true,
+      "date": "Just now",
+      "city": "Khan pur",
+      "verifiedPurchase": true,
+      "comment": "\"My order arrived on time, and the packaging was good. The ghee tastes delicious, and the overall shopping experience was smooth.\"",
+      "id": "rev-1794107938505"
+    },
+    {
+      "city": "Multan",
+      "comment": "\"Ordered Maa Ji Desi Ghee online and received it within the expected delivery time. The quality and taste were very good. Happy with my purchase!\"",
+      "id": "rev-1794107980073",
+      "name": "Aisha",
+      "rating": 5,
+      "verifiedPurchase": true,
+      "date": "Just now",
+      "approved": true
+    },
+    {
+      "approved": true,
+      "verifiedPurchase": true,
+      "rating": 5,
+      "id": "rev-1794108041474",
+      "city": "chakwal",
+      "comment": "\"Maa Ji Desi Ghee has a lovely traditional taste and good quality. I enjoyed using it in my meals and would happily consider ordering again.\"",
+      "date": "Just now",
+      "name": "saleem"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I place an order?",
+      "id": "faq-1",
+      "answer": "Simply select your desired color and quantity, fill in your delivery details in the order form at the bottom of the page, choose your preferred payment method (Cash on Delivery or JazzCash QR), and click \"Complete Order\". You will also receive an instant confirmation message."
+    },
+    {
+      "answer": "Yes! We provide Cash on Delivery all across Pakistan. You only pay cash to the courier rider when the parcel arrives safely at your doorstep.",
+      "id": "faq-2",
+      "question": "Is Cash on Delivery (COD) available across Pakistan?"
+    },
+    {
+      "id": "faq-3",
+      "answer": "Select \"JazzCash QR Payment\" in the checkout form. You will see our verified Ammi Express QR Code and Till / Account details (0308-2494870). Scan with your JazzCash app, enter the grand total, and upload the screenshot or transaction ID. Your order will be prioritized and verified quickly.",
+      "question": "How do I pay using JazzCash QR?"
+    },
+    {
+      "question": "How long does delivery take?",
+      "answer": "Standard delivery takes 2 to 4 business days. Major cities like Lahore, Karachi, Rawalpindi, and Islamabad usually receive deliveries within 48 to 72 hours via our courier partners (TCS, Leopards, Trax).",
+      "id": "faq-4"
+    },
+    {
+      "id": "faq-5",
+      "answer": "Yes, we pack all items in genuine sealed boxes with our 7-Day Checking and Replacement Guarantee. If there is any fault, damage, or discrepancy, our WhatsApp support team (0308-2494870) resolves it immediately.",
+      "question": "Can I check the parcel before paying?"
+    },
+    {
+      "question": "What is included inside the box?",
+      "id": "faq-6",
+      "answer": "The package contains 1x Ammi Express Smart Motor Unit, 1x 250ml Food-grade PC Bowl, 1x 4-Blade 304 Stainless Steel Cyclone Assembly, 1x USB Type-C Fast Charging Cable, and 1x English/Urdu User Instruction Manual."
+    }
+  ],
+  "orders": [
+    {
+      "orderNumber": "AE-33557",
+      "customer": {
+        "fullName": "bashir  ahmed s/o abdul rashid",
+        "nearbyLandmark": "",
+        "city": "Faisalabad",
+        "mobileNumber": "03217767413",
+        "customerNote": "",
+        "whatsappNumber": "03217767413",
+        "province": "Punjab",
+        "address": "street no p/27 warispura faisalabad"
+      },
+      "payment": {
+        "screenshotUrl": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "transactionId": ""
+      },
+      "item": {
+        "productTitle": "2-in-1 Eyebrow Trimmer & Facial Hair Remover for Women",
+        "productId": "prod-ammi-1790844044142",
+        "sku": "SKU: PTW-001",
+        "quantity": 1,
+        "unitPrice": 1199,
+        "variant": "Pink Glitter"
+      },
+      "status": "cancelled",
+      "pricing": {
+        "grandTotal": 1379,
+        "deliveryCharge": 180,
+        "bundleDiscount": 0,
+        "subtotal": 1199
+      },
+      "id": "order-1793587860839",
+      "history": [
+        {
+          "note": "Status manually changed to cancelled",
+          "author": "Admin",
+          "status": "cancelled",
+          "id": "h-1794280563126",
+          "timestamp": "2026-11-10T03:16:03.126Z"
+        },
+        {
+          "timestamp": "2026-11-10T03:16:02.080Z",
+          "author": "Admin",
+          "note": "Status manually changed to cancelled",
+          "id": "h-1794280562080",
+          "status": "cancelled"
+        },
+        {
+          "timestamp": "2026-11-10T03:15:53.772Z",
+          "author": "Admin",
+          "status": "new",
+          "id": "h-1794280553772",
+          "note": "coustmor order no conform 4 days"
+        },
+        {
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1793587860839",
+          "timestamp": "2026-11-02T02:51:00.839Z",
+          "status": "new"
+        }
+      ],
+      "createdAt": "2026-11-02T02:51:00.839Z",
+      "createdAtServer": {
+        "type": "firestore/timestamp/1.0",
+        "seconds": 1793587861,
+        "nanoseconds": 218000000
+      }
+    }
+  ],
+  "inventoryMovements": [],
+  "notifications": [],
+  "productHandlingTexts": [
+    {
+      "updatedAt": "2026-10-18T05:39:41.670Z",
+      "guaranteeText": "",
+      "ctaText": "",
+      "productId": "prod-ammi-1790844044142",
+      "mainHeading": "Why You'll Love Our 2-in-1 Beauty Trimmer",
+      "buyerProtectionDescription": "At Ammi Express, your satisfaction matters to us. We carefully prepare your order and aim to provide a smooth, reliable shopping experience. Enjoy the convenience of Cash on Delivery (COD), so you can pay when your order arrives. For assistance with your order, delivery, or product concerns, please contact our customer support team. We are here to help make your shopping experience easy and worry-free.",
+      "benefitsSection": {
+        "heading": "Your Beauty Routine, Made Effortless",
+        "description": "Enjoy effortless eyebrow shaping and facial hair removal with our 2-in-1 beauty essential. Compact, convenient, and easy to use — your everyday partner for a polished look, wherever you go. 💖",
+        "eyebrow": "YOUR DAILY BEAUTY ESSENTIAL"
+      },
+      "deliveryText": "",
+      "deletedAt": "2026-11-05T13:19:18.676Z",
+      "benefitsHeading": "Your Everyday Beauty Benefits",
+      "storyHeading": "Your Everyday Beauty Essential",
+      "deepDiveBadge": "✨ 2-IN-1 BEAUTY ESSENTIAL",
+      "customSections": [],
+      "buyerProtectionHeading": "Shop with Confidence at Ammi Express",
+      "sku": "SKU: PTW-001",
+      "storyDescription": "Meet your new everyday beauty companion from Ammi Express! Our 2-in-1 Eyebrow Trimmer & Facial Hair Remover is designed to make your personal grooming routine simple and convenient. Whether you want to tidy up your eyebrows or remove unwanted facial hair, this compact beauty tool brings two grooming functions together in one stylish design. Easy to carry and convenient for everyday touch-ups, it fits effortlessly into your beauty routine at home or while travelling. Enjoy a polished look with less hassle and more convenience — all for just Rs. 1,199!",
+      "mainDescription": "Discover effortless beauty with the Ammi Express 2-in-1 Eyebrow Trimmer & Facial Hair Remover. Designed for convenient everyday grooming, this compact beauty essential helps you shape your eyebrows and remove unwanted facial hair with ease. Its stylish design makes it a practical addition to your beauty routine at home or while travelling. Enjoy a neat, polished look with one convenient grooming tool — now available for just Rs. 1,199!",
+      "safetyHeading": "Your Beauty, Our Priority",
+      "safetyDescription": "At Ammi Express, we believe your beauty routine should be simple and convenient. Our 2-in-1 Eyebrow Trimmer & Facial Hair Remover is designed for everyday personal grooming. For the best experience, read the product instructions before use, handle the grooming head carefully, and use the device gently on the intended areas. Keep the device clean and store it safely after use. Choose Ammi Express for a convenient addition to your daily beauty routine.",
+      "createdAt": "2026-10-01T08:40:44.142Z",
+      "benefits": [
+        {
+          "description": "Shape your eyebrows and remove unwanted facial hair with one convenient beauty tool. Simplify your everyday grooming routine with Ammi Express.",
+          "displayOrder": 1,
+          "icon": "Heart",
+          "enabled": true,
+          "text": "Complete Travel Organization",
+          "id": "ben-1790843498957-275",
+          "title": "2-in-1 Beauty Solution"
+        },
+        {
+          "title": "Easy & Convenient Grooming",
+          "text": "Multiple Compartments",
+          "id": "ben-1790843525349-342",
+          "enabled": true,
+          "description": "Enjoy a simple grooming routine at home whenever you need a quick beauty touch-up. Designed for convenient everyday personal care.",
+          "icon": "Star",
+          "displayOrder": 2
+        },
+        {
+          "enabled": true,
+          "displayOrder": 3,
+          "title": "Compact & Travel-Friendly",
+          "text": "Durable & Stylish Design",
+          "icon": "CheckCircle2",
+          "id": "ben-1790843566141-770",
+          "description": "Its compact design makes it easy to carry in your handbag or travel pouch, so your beauty essential is always within reach."
+        },
+        {
+          "icon": "BatteryCharging",
+          "displayOrder": 4,
+          "id": "ben-1790843601380-887",
+          "enabled": true,
+          "description": "Keep your personal grooming routine simple and convenient. Enjoy a neat, well-groomed look at home, at work, or while travelling.",
+          "title": "Your Beauty, Your Confidence",
+          "text": "Compact & Travel-Friendly"
+        }
+      ]
+    },
+    {
+      "productId": "prod-ammi-1793895512696",
+      "mainDescription": "Discover the authentic taste of tradition with Maa Ji Desi Ghee. Carefully prepared at home using fresh milk cream, our ghee is made by churning cream into butter and slowly cooking it to create rich, golden desi ghee. Every batch is prepared with care, bringing traditional homemade taste and warmth to your everyday meals. Carefully packed to preserve its delicious flavor, Maa Ji Desi Ghee brings the goodness of traditional cooking straight to your kitchen.",
+      "updatedAt": "2026-11-08T03:56:00.896Z",
+      "safetyHeading": "Prepared with Care, Packed with Quality",
+      "deletedAt": null,
+      "benefits": [
+        {
+          "text": "Rich in Vitamins A, D, E & K",
+          "displayOrder": 1,
+          "id": "b1",
+          "title": "Rich Golden Taste & Traditional Aroma",
+          "enabled": true,
+          "description": "Enjoy the rich golden taste and traditional aroma of Maa Ji Desi Ghee, carefully prepared from fresh milk cream using a traditional homemade process. Its delightful flavor adds authentic desi goodness to your everyday meals.",
+          "icon": "Zap"
+        },
+        {
+          "id": "b2",
+          "enabled": true,
+          "title": "Natural Source of Energy",
+          "displayOrder": 2,
+          "text": "Natural Source of Energy",
+          "icon": "Star",
+          "description": "Provides concentrated energy to support your daily activities as part of a balanced diet."
+        },
+        {
+          "enabled": true,
+          "icon": "CheckCircle2",
+          "text": "Authentic Homemade Taste",
+          "id": "ben-1793895042677-634",
+          "description": "Enjoy the rich, traditional flavor of homemade desi ghee, crafted from fresh milk cream and churned butter to bring authentic taste and aroma to your meals.",
+          "title": "Authentic Homemade Taste",
+          "displayOrder": 3
+        },
+        {
+          "description": "Maa Ji Desi Ghee is prepared at home using traditional methods, starting with fresh milk cream that is churned into butter and slowly cooked into golden ghee. Every batch reflects the warmth of homemade preparation and the rich taste of traditional cooking.",
+          "displayOrder": 4,
+          "id": "ben-1794107026543-772",
+          "icon": "CheckCircle2",
+          "enabled": true,
+          "text": "Traditional Homemade Goodness",
+          "title": "Traditional Homemade Goodness"
+        }
+      ],
+      "buyerProtectionHeading": "Your Trust & Satisfaction Matter to Us",
+      "ctaText": "Buy Maa Ji Desi Ghee Now",
+      "safetyDescription": "At Maa Ji, every batch of desi ghee is prepared with care using our traditional homemade process. We pay attention to cleanliness during preparation and ensure the finished ghee is carefully packed before dispatch. Our goal is to deliver a well-prepared, properly packed product that brings traditional taste and quality to your kitchen.",
+      "buyerProtectionDescription": "At Maa Ji Desi Ghee, your trust matters to us. Every order is carefully packed and checked before dispatch to ensure it reaches you in the best possible condition. We are committed to providing a smooth and reliable shopping experience. If you receive a damaged, incorrect, or defective product, please contact our customer support with your order details so we can assist you according to our return and replacement policy.",
+      "storyDescription": "At Maa Ji, every batch of desi ghee begins with fresh milk cream, carefully collected at home. We gently churn the cream to separate the butter, then slowly cook it in a traditional large pot until it transforms into beautiful golden desi ghee.\n\nOur preparation follows a traditional homemade process, bringing authentic taste and warmth to your everyday meals. Once ready, the ghee is carefully packed to bring the delicious experience of Maa Ji Desi Ghee straight to your kitchen.\n\nMade with care, inspired by tradition, and prepared for your family's everyday cooking.",
+      "guaranteeText": "7-DAY REPLACEMENT GUARANTEE",
+      "benefitsSection": {
+        "heading": "Experience the Rich Taste of Pure Desi Ghee",
+        "description": "Made from fresh milk cream and traditionally churned butter, Maa Ji Desi Ghee brings authentic homemade taste, rich aroma, and natural goodness to your everyday meals.",
+        "eyebrow": "TRADITIONAL HOMEMADE GOODNESS"
+      },
+      "customSections": [],
+      "sku": "MAAJI-GHEE-1KG-001",
+      "benefitsHeading": "Made with Care, Enjoyed with Every Meal",
+      "storyHeading": " Fresh Cream to Golden Desi Ghee",
+      "createdAt": "2026-11-05T16:18:32.697Z",
+      "deliveryText": "DELIVERY IN 2–4 WORKING DAYS",
+      "mainHeading": "Experience the Authentic Taste of Maa Ji Desi Ghee",
+      "deepDiveBadge": "AUTHENTIC DESI GHEE"
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "id": "perf-1792294119572-uppg1",
+      "timestamp": "2026-10-18T03:28:39.572Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 28629,
+      "apiLatencyMs": 1988,
+      "apiPayloadSizeBytes": 32568,
+      "imageLoadTimeMs": 134,
+      "imageCount": 1,
+      "slowestImageName": "/tr/",
+      "slowestImageTimeMs": 134,
+      "totalImageSizeBytes": 0,
+      "imagesDetail": [
+        {
+          "name": "/tr/",
+          "durationMs": 134,
+          "transferSizeBytes": 0,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 72,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1689817
+      },
+      "ttfbMs": 554,
+      "domContentLoadedMs": 27978,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1792073691921-cn98m",
+      "timestamp": "2026-10-15T14:14:51.921Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 10815,
+      "apiLatencyMs": 1098,
+      "apiPayloadSizeBytes": 32568,
+      "imageLoadTimeMs": 62,
+      "imageCount": 7,
+      "slowestImageName": "/tr/",
+      "slowestImageTimeMs": 432,
+      "totalImageSizeBytes": 2658331,
+      "imagesDetail": [
+        {
+          "name": "/tr/",
+          "durationMs": 432,
+          "transferSizeBytes": 0,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-1791734408252-lsvxzr4-2-in-1-glitter-beauty-ess.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 407137,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-1791734413839-qt2i1rd-ammi-express-2-in-1-beaut.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 413728,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-1791734419684-en6ag94-2-in-1-beauty-trimmer-ess.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 397681,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-1791734426181-m8p6xsu-ammi-express-beauty-trimm.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 403331,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-1791734432622-xfie7wq-rose-gold-2-in-1-trimmer-.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 339777,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 7,
+        "scriptsCount": 72,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 8720662
+      },
+      "ttfbMs": 543,
+      "domContentLoadedMs": 10797,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1792073157793-x25px",
+      "timestamp": "2026-10-15T14:05:57.793Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 11430,
+      "apiLatencyMs": 499,
+      "apiPayloadSizeBytes": 32568,
+      "imageLoadTimeMs": 151,
+      "imageCount": 3,
+      "slowestImageName": "/tr/",
+      "slowestImageTimeMs": 452,
+      "totalImageSizeBytes": 1103814,
+      "imagesDetail": [
+        {
+          "name": "/tr/",
+          "durationMs": 452,
+          "transferSizeBytes": 0,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-1791734408252-lsvxzr4-2-in-1-glitter-beauty-ess.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 407137,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 72,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 3500322
+      },
+      "ttfbMs": 654,
+      "domContentLoadedMs": 11416,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1792072855172-o3q2j",
+      "timestamp": "2026-10-15T14:00:55.172Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 10885,
+      "apiLatencyMs": 654,
+      "apiPayloadSizeBytes": 32568,
+      "imageLoadTimeMs": 0,
+      "imageCount": 0,
+      "slowestImageTimeMs": 0,
+      "totalImageSizeBytes": 0,
+      "imagesDetail": [],
+      "resourcesSummary": {
+        "imagesCount": 0,
+        "scriptsCount": 70,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 2170589
+      },
+      "ttfbMs": 1959,
+      "domContentLoadedMs": 10875,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790862119224-wqqsx",
+      "timestamp": "2026-10-01T13:41:59.224Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 34647,
+      "apiLatencyMs": 726,
+      "apiPayloadSizeBytes": 29173,
+      "imageLoadTimeMs": 0,
+      "imageCount": 0,
+      "slowestImageTimeMs": 0,
+      "totalImageSizeBytes": 0,
+      "imagesDetail": [],
+      "resourcesSummary": {
+        "imagesCount": 0,
+        "scriptsCount": 60,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1774663
+      },
+      "ttfbMs": 522,
+      "domContentLoadedMs": 34640,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790769479831-ykhk1",
+      "timestamp": "2026-09-30T11:57:59.831Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 7127,
+      "apiLatencyMs": 556,
+      "apiPayloadSizeBytes": 29717,
+      "imageLoadTimeMs": 3,
+      "imageCount": 3,
+      "slowestImageName": "photo-1556911220-e15b29be8c8f",
+      "slowestImageTimeMs": 6,
+      "totalImageSizeBytes": 748566,
+      "imagesDetail": [
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 6,
+          "transferSizeBytes": 20113,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 4,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 60,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5422281
+      },
+      "ttfbMs": 485,
+      "domContentLoadedMs": 7123,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790768602863-71jvx",
+      "timestamp": "2026-09-30T11:43:22.864Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 25554,
+      "apiLatencyMs": 666,
+      "apiPayloadSizeBytes": 25894,
+      "imageLoadTimeMs": 18,
+      "imageCount": 2,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 28,
+      "totalImageSizeBytes": 716790,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 28,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 7,
+          "transferSizeBytes": 20113,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 2,
+        "scriptsCount": 60,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 2488499
+      },
+      "ttfbMs": 465,
+      "domContentLoadedMs": 25539,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790680584289-1x0k4",
+      "timestamp": "2026-09-29T11:16:24.289Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 10080,
+      "apiLatencyMs": 515,
+      "apiPayloadSizeBytes": 26170,
+      "imageLoadTimeMs": 56,
+      "imageCount": 1,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 56,
+      "totalImageSizeBytes": 696677,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 56,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 2452011
+      },
+      "ttfbMs": 476,
+      "domContentLoadedMs": 10075,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790608547020-9tlwb",
+      "timestamp": "2026-09-28T15:15:47.020Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 16422,
+      "apiLatencyMs": 528,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 150,
+      "imageCount": 3,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 378,
+      "totalImageSizeBytes": 764940,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 378,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 40,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 32,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 4664702
+      },
+      "ttfbMs": 456,
+      "domContentLoadedMs": 16413,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790607107278-ph251",
+      "timestamp": "2026-09-28T14:51:47.278Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 7841,
+      "apiLatencyMs": 536,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 0,
+      "imageCount": 6,
+      "slowestImageTimeMs": 0,
+      "totalImageSizeBytes": 1144228,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_0f3cc2f232bcb5c3857-1790410944169.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 105185,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_f16980bc74320920579-1790410945191.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 69034,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_fbe419119af0dd0153c-1790410946577.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 159580,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2025_10_25_4a85f86ac8870fdc288-1790410947620.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 81976,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 6,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5155654
+      },
+      "ttfbMs": 468,
+      "domContentLoadedMs": 7834,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790604936319-x0nn3",
+      "timestamp": "2026-09-28T14:15:36.319Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 9194,
+      "apiLatencyMs": 502,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 34,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 34,
+      "totalImageSizeBytes": 36487,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 34,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1790517
+      },
+      "ttfbMs": 458,
+      "domContentLoadedMs": 9185,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790599161178-6g55g",
+      "timestamp": "2026-09-28T12:39:21.178Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 4870,
+      "apiLatencyMs": 2143,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 219,
+      "imageCount": 5,
+      "slowestImageName": "photo-1588854337236-6889d631faa8",
+      "slowestImageTimeMs": 383,
+      "totalImageSizeBytes": 1059615,
+      "imagesDetail": [
+        {
+          "name": "photo-1588854337236-6889d631faa8",
+          "durationMs": 383,
+          "transferSizeBytes": 59132,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 378,
+          "transferSizeBytes": 201383,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 305,
+          "transferSizeBytes": 65936,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 17,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 13,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 5,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 8690427
+      },
+      "ttfbMs": 0,
+      "domContentLoadedMs": 898,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "back_forward",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790598860868-yv9yp",
+      "timestamp": "2026-09-28T12:34:20.868Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 11152,
+      "apiLatencyMs": 512,
+      "apiPayloadSizeBytes": 35583,
+      "imageLoadTimeMs": 25,
+      "imageCount": 2,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 27,
+      "totalImageSizeBytes": 68263,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 27,
+          "transferSizeBytes": 36487,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_10_8199dd40342051f2b8e-1790410943014.jpg",
+          "durationMs": 23,
+          "transferSizeBytes": 31776,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 2,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1841962
+      },
+      "ttfbMs": 494,
+      "domContentLoadedMs": 11149,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790331965933-22kfs",
+      "timestamp": "2026-09-25T10:26:05.933Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 11193,
+      "apiLatencyMs": 596,
+      "apiPayloadSizeBytes": 36521,
+      "imageLoadTimeMs": 770,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 770,
+      "totalImageSizeBytes": 36787,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 770,
+          "transferSizeBytes": 36787,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1831109
+      },
+      "ttfbMs": 526,
+      "domContentLoadedMs": 11181,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790243318066-k6sux",
+      "timestamp": "2026-09-24T09:48:38.066Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 5701,
+      "apiLatencyMs": 519,
+      "apiPayloadSizeBytes": 36533,
+      "imageLoadTimeMs": 39,
+      "imageCount": 7,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 227,
+      "totalImageSizeBytes": 1088473,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 227,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 13,
+          "transferSizeBytes": 201083,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 12,
+          "transferSizeBytes": 65636,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 8,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1513694203232-719a280e022f",
+          "durationMs": 6,
+          "transferSizeBytes": 19879,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584308666744-24d5c474f2ae",
+          "durationMs": 6,
+          "transferSizeBytes": 39082,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 3,
+          "transferSizeBytes": 32187,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 7,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 4988535
+      },
+      "ttfbMs": 528,
+      "domContentLoadedMs": 5690,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790242990470-f07g4",
+      "timestamp": "2026-09-24T09:43:10.470Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 8407,
+      "apiLatencyMs": 511,
+      "apiPayloadSizeBytes": 36533,
+      "imageLoadTimeMs": 149,
+      "imageCount": 11,
+      "slowestImageName": "photo-1556911220-e15b29be8c8f",
+      "slowestImageTimeMs": 574,
+      "totalImageSizeBytes": 1631926,
+      "imagesDetail": [
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 574,
+          "transferSizeBytes": 32487,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584308666744-24d5c474f2ae",
+          "durationMs": 568,
+          "transferSizeBytes": 39382,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 351,
+          "transferSizeBytes": 201383,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 114,
+          "transferSizeBytes": 65936,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1513694203232-719a280e022f",
+          "durationMs": 30,
+          "transferSizeBytes": 19879,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 3,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_2c174fb94bfebd3e78d-1790151342793.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 57629,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_a59ca5c2fd93b49cfa4-1790151343478.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 49228,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_d5a077010bb7c7767ab-1790151344385.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 69524,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_15_09ee989b9616f61691d-1790151353896.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 365872,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 11,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5752511
+      },
+      "ttfbMs": 463,
+      "domContentLoadedMs": 8402,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790240696858-l3cu6",
+      "timestamp": "2026-09-24T09:04:56.858Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 15165,
+      "apiLatencyMs": 505,
+      "apiPayloadSizeBytes": 34853,
+      "imageLoadTimeMs": 191,
+      "imageCount": 3,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 499,
+      "totalImageSizeBytes": 788235,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 499,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 58,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_2c174fb94bfebd3e78d-1790151342793.jpg",
+          "durationMs": 15,
+          "transferSizeBytes": 57629,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5414477
+      },
+      "ttfbMs": 544,
+      "domContentLoadedMs": 15157,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790239491665-nykpj",
+      "timestamp": "2026-09-24T08:44:51.665Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 8400,
+      "apiLatencyMs": 672,
+      "apiPayloadSizeBytes": 30293,
+      "imageLoadTimeMs": 18,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 18,
+      "totalImageSizeBytes": 33929,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 18,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1800085
+      },
+      "ttfbMs": 471,
+      "domContentLoadedMs": 8396,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790166878414-9di4t",
+      "timestamp": "2026-09-23T12:34:38.414Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 3100,
+      "apiLatencyMs": 1178,
+      "apiPayloadSizeBytes": 42800,
+      "imageLoadTimeMs": 1612,
+      "imageCount": 14,
+      "slowestImageName": "/uploads/chopper-hero-emerald-forest.webp",
+      "slowestImageTimeMs": 1488,
+      "totalImageSizeBytes": 1420500,
+      "imagesDetail": [
+        {
+          "name": "chopper-hero-emerald-forest.webp",
+          "durationMs": 1488,
+          "transferSizeBytes": 412000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-real-jazzcash-qr.png",
+          "durationMs": 682,
+          "transferSizeBytes": 98400,
+          "initiatorType": "img"
+        },
+        {
+          "name": "chopper-specs-diagram.webp",
+          "durationMs": 961,
+          "transferSizeBytes": 245000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-logo-badge.png",
+          "durationMs": 465,
+          "transferSizeBytes": 45000,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 14,
+        "scriptsCount": 5,
+        "stylesheetsCount": 2,
+        "totalTransferBytes": 1980000
+      },
+      "ttfbMs": 465,
+      "domContentLoadedMs": 2015,
+      "navigationType": "simulated_test",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Simulated Benchmark Test"
+    },
+    {
+      "id": "perf-1790166873332-p86dd",
+      "timestamp": "2026-09-23T12:34:33.332Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 1420,
+      "apiLatencyMs": 85,
+      "apiPayloadSizeBytes": 45120,
+      "imageLoadTimeMs": 280,
+      "imageCount": 12,
+      "slowestImageName": "chopper-hero-emerald-forest.webp",
+      "slowestImageTimeMs": 510,
+      "totalImageSizeBytes": 1250000,
+      "imagesDetail": [
+        {
+          "name": "chopper-hero-emerald-forest.webp",
+          "durationMs": 510,
+          "transferSizeBytes": 380000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-real-jazzcash-qr.png",
+          "durationMs": 190,
+          "transferSizeBytes": 92000,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 12,
+        "scriptsCount": 4,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1650000
+      },
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": false,
+      "userAgent": "curl/7.88.1"
+    },
+    {
+      "id": "perf-1790166312170-p9kci",
+      "timestamp": "2026-09-23T12:25:12.170Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 2340,
+      "apiLatencyMs": 120,
+      "ttfbMs": 45,
+      "domContentLoadedMs": 890,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "node"
+    }
+  ],
+  "performanceSettings": {
+    "thresholdMs": 1000,
+    "alertEnabled": true,
+    "trackStorefront": true
+  },
+  "analyticsSummary": {
+    "daily": {
+      "2026-10-15": {
+        "date": "2026-10-15",
+        "pageViews": 6,
+        "uniqueVisitors": 1,
+        "totalActionClicks": 0,
+        "codClicks": 0,
+        "whatsappClicks": 0,
+        "completeOrderClicks": 0
+      },
+      "2026-10-18": {
+        "date": "2026-10-18",
+        "pageViews": 2,
+        "uniqueVisitors": 1,
+        "totalActionClicks": 0,
+        "codClicks": 0,
+        "whatsappClicks": 0,
+        "completeOrderClicks": 0
+      }
+    },
+    "visitorFingerprints": {
+      "2026-10-15": [
+        "v_mur06ize_1fg6tjn"
+      ],
+      "2026-10-18": [
+        "v_mur06ize_1fg6tjn"
+      ]
+    },
+    "totals": {
+      "pageViews": 8,
+      "uniqueVisitors": 2,
+      "totalActionClicks": 0,
+      "codClicks": 0,
+      "whatsappClicks": 0,
+      "completeOrderClicks": 0
+    }
+  }
+}
